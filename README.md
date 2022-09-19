@@ -4,7 +4,7 @@
 
 <h1 align="center">Preview</h1>
 
-![Main Game Mod Page](https://user-images.githubusercontent.com/78914154/191014865-a2010643-203b-46e2-a6ec-b846ea2ec3be.png)
+![Main Game Mod Page](https://user-images.githubusercontent.com/78914154/191073321-ef99c710-3985-4971-b2e7-11fc717afae7.png)
 
 <h1 align="center">📌 Information</h1>
 
