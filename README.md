@@ -68,6 +68,16 @@ body.scheme-theme-Sepia { /* Example: https://www.nexusmods.com/darksouls3/mods/
 }
 ```
 
+<h3 align="center">Optional List & Tile version -> change the "--Mod-Tiles" to your liking </h3>
+
+<div align="center">
+
+https://user-images.githubusercontent.com/78914154/191626228-b5b0e9ec-dd0b-4763-a289-f3bf144dc870.mp4
+
+</div>
+
+
+
 </details>
 
 
