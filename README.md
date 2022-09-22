@@ -25,6 +25,7 @@ When it redirects you click "Install Stylus" button at the top left of that page
 * ✔️ Optional Compact Mode
 * ❌ Can't change the colours of particular stuff unless you know what you're looking for
 * ⭕ Work in progress and "should" stay up-to-date
+* 🌟 List > Tiles
 
 <details>
   <summary align="center">📜 Configurable & Extra's</summary>
