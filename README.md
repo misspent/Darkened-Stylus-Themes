@@ -2,6 +2,10 @@
 
 ![Darkened Stylus Edited](https://user-images.githubusercontent.com/78914154/191014782-882e8712-0aa4-441a-b7e4-cbb73d9e5fe6.png)
 
+<details>
+  <summary align="center">Nexus Mods Theme</summary>
+  <br>
+
 <h1 align="center">Preview</h1>
 
 ![Main Game Mod Page](https://user-images.githubusercontent.com/78914154/191073321-ef99c710-3985-4971-b2e7-11fc717afae7.png)
@@ -77,8 +81,6 @@ https://user-images.githubusercontent.com/78914154/191626228-b5b0e9ec-dd0b-4763-
 
 </div>
 
-
-
 </details>
 
 
@@ -95,3 +97,4 @@ https://user-images.githubusercontent.com/78914154/191626228-b5b0e9ec-dd0b-4763-
 ![Main Game Home Page](https://user-images.githubusercontent.com/78914154/191014940-bcfc8697-d027-4436-9f24-5823cc89ade1.png)
 
 
+</details>
