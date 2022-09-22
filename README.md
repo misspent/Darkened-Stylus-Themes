@@ -18,8 +18,8 @@ After installing, head over to [this link](https://) and install the one you wan
 * ✔️ Good ol' darkness
 * ✔️ Optional Scrollbars
 * ✔️ Optional Compact Mode
-* ❌ Light mode not supported
-* ⭕ All Imports in main.css I deem a requirement with my theme (may change)
+* ❌ Can't change the colours of particular stuff unless you know what you're looking for
+* ⭕ Work in progress and "should" stay up-to-date
 
 <details>
   <summary align="center">📜 Configurable & Extra's</summary>
