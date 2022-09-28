@@ -97,5 +97,12 @@ https://user-images.githubusercontent.com/78914154/191626228-b5b0e9ec-dd0b-4763-
 
 ![Main Game Home Page](https://user-images.githubusercontent.com/78914154/191014940-bcfc8697-d027-4436-9f24-5823cc89ade1.png)
 
+<h3 align="center">Game Mods Page (Grid)</h3>
+
+![Grid Game mods page](https://user-images.githubusercontent.com/78914154/192757905-672866e6-2af3-43be-a122-b790ced1d6bb.png)
+
+<h3 align="center">Main Game Home Page Compact (Grid)</h3>
+
+![Main Game Home Page Version 2](https://user-images.githubusercontent.com/78914154/192758014-bba9180a-bd5c-4d34-8f3f-78380106c631.png)
 
 </details>
