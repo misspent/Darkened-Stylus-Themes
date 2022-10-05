@@ -18,6 +18,7 @@ Make sure you have the Stylus browser extension installed
     - **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)**  
 After installing, head over to [this link](https://userstyles.world/style/6620/nexus-mods-darkened) and click the "install" button. 
 When it redirects you click "Install Stylus" button at the top left of that page.
+    - Optional: **[Nexus no wait](https://greasyfork.org/en/scripts/394039-nexus-no-wait)** | You'll need TamperMonkey extension for this to work.  
 
 ### ✅ Features
 * ✔️ Good ol' darkness
