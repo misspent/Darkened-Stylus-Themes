@@ -105,3 +105,91 @@ https://user-images.githubusercontent.com/78914154/191626228-b5b0e9ec-dd0b-4763-
 ![Main Game Home Page Version 2](https://user-images.githubusercontent.com/78914154/192758014-bba9180a-bd5c-4d34-8f3f-78380106c631.png)
 
 </details>
+
+
+
+<details>
+  <summary align="center">YouTube Theme</summary>
+  <br>
+
+<h1 align="center">Preview</h1>
+
+![YouTube Home SS](https://user-images.githubusercontent.com/78914154/194672885-a00e10fb-3eb3-414f-9898-9dd43d924403.png)
+
+<h1 align="center">📌 Information</h1>
+
+### 📥 Installation
+Set your appearance to "Dark" on YouTube  
+Make sure you have the Stylus browser extension installed   
+    - **[Chrome Webstore](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)**  
+    - **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)**  
+After installing, head over to [this link](https://userstyles.world/style/6620/nexus-mods-darkened) and click the "install" button. When it redirects you click "Install Stylus" button at the top left of that page.  
+    - Optional: **[I'm not interested in this fucking YouTube video!](https://greasyfork.org/en/scripts/436380-i-m-not-interested-in-this-youtube-video)**  
+    - Optional: **[Simple YouTube Age Restriction Bypass](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass)**  
+    You'll need TamperMonkey extension for the optional extension to work.  
+
+### ✅ Features
+* ✔️ Optional More Results
+* ✔️ Optional Compact Comments
+* ❌ Can't change the colours of certain stuff unless you know what you're looking for
+* ❌ I can't change the suggestion dropdown when you type in the search bar... With/without the privacy settings on  
+* ⭕ Work in progress, not perfect and more than likely never will be.
+* ⛔ May not work properly for other browsers, nor will it work that well when signed out
+* ⛔ I use the Brave Browser (V1.44.105 as of 05/10/2022)
+
+<details>
+  <summary align="center">📜 Configurable & Extra's</summary>
+  <br>
+
+<h3 align="center">⌛ Extra Information</h3>
+
+- You can disable the other 2 sections to make the results and comment section look "normal"  
+
+<h3 align="center">⌨ Variables</h3>
+
+```css
+:root {
+  --background-primary: #212121;
+  --background-secondary: #090909;
+  --background-tertiary: #121212;
+  --background-hover: #202020;
+  --background-video-renderer: #101010;
+  --background-comment-renderer: rgba(28, 28, 28, 1);
+	--background-title: #151515;
+	--title-text: #ccc;
+  --avatar-radius: 0px;
+  --header-bar: flex; /* none = OFF | flex = ON */
+  --YouTube-logo: flex; /* none = OFF | flex = ON */
+  --entry-shorts: none; /* none = OFF | block = ON */
+  --Result-Tiles: 2;
+  --Main-Results-Width: 1920px; /* 1920px/2100px = Good | -webkit-fill-available = maximize space */
+}
+```
+
+<h3 align="center"> Compact Comments </h3>
+
+<div align="center">
+
+https://user-images.githubusercontent.com/78914154/191626228-b5b0e9ec-dd0b-4763-a289-f3bf144dc870.mp4
+
+</div>
+
+</details>
+
+
+<h1 align="center", margin= "0">📷 More Screenshots</h1>
+
+<h4 align="center">(Previews/screenshots may become out-of-date at some point)</h4>
+
+<h3 align="center">YouTube Watching Video</h3>
+
+![YouTube Watching Video SS  Version 2](https://user-images.githubusercontent.com/78914154/194672920-15681603-c9d2-413f-b300-2aa3e30af7c9.png)
+
+<h3 align="center">Compact Comments (optional)</h3>
+
+https://user-images.githubusercontent.com/78914154/194672990-c6bfd232-0095-478e-8852-306ccb9093a2.mp4
+
+
+</details>
+
+
