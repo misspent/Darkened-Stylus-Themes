@@ -1,5 +1,3 @@
-<h3 align="center"> This is a WIP.</h3>
-
 ![Darkened Stylus Edited](https://user-images.githubusercontent.com/78914154/191014782-882e8712-0aa4-441a-b7e4-cbb73d9e5fe6.png)
 
 <details>
