@@ -179,7 +179,7 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
 
 <h3 align="center">Compact Comments (optional)</h3>
 
-![brave_Ya7BdAnlRH](https://user-images.githubusercontent.com/78914154/194678105-f4b1b6e6-b82d-45a2-9dbb-591c81fb8769.gif)
+![GIF  YouTube Comment](https://user-images.githubusercontent.com/78914154/194765982-f6c71a41-5f22-480c-92f9-116ae64e4484.gif)
 
 </details>
 
