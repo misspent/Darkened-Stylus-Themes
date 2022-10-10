@@ -144,6 +144,7 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
 <h3 align="center">⌛ Extra Information</h3>
 
 - You can disable the other 2 sections to make the results and comment section look "normal"  
+- I have YouTube Premium, so I have no idea what it would look like without YouTube Premium.
 
 <h3 align="center">⌨ Variables</h3>
 
