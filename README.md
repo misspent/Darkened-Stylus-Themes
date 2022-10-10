@@ -6,7 +6,7 @@
 
 <h1 align="center">Preview</h1>
 
-![Main Game Mod Page](https://user-images.githubusercontent.com/78914154/191073321-ef99c710-3985-4971-b2e7-11fc717afae7.png)
+![YouTube Home SS](https://user-images.githubusercontent.com/78914154/194886074-32361f7e-081b-4cc8-ada6-fef3bc42d070.png)
 
 <h1 align="center">📌 Information</h1>
 
