@@ -177,6 +177,11 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
 
 ![YouTube Watching Video SS  Version 2](https://user-images.githubusercontent.com/78914154/194672920-15681603-c9d2-413f-b300-2aa3e30af7c9.png)
 
+<h3 align="center">Compact and More Results (Both Optional)</h3>
+
+![GIF  Optional Compact and More Results](https://user-images.githubusercontent.com/78914154/194886541-2980fd74-b455-4be0-aa83-ec19108bc4af.gif)
+
+
 | Compact Comments | More Subscription Tiles |
 | :---------: | :---------: |
 | <img width=475 src="https://user-images.githubusercontent.com/78914154/194765982-f6c71a41-5f22-480c-92f9-116ae64e4484.gif"></img>  | <img width=480 src="https://user-images.githubusercontent.com/78914154/194863165-3ffa4362-526b-4af3-b1c7-13b71c7b43a8.gif"></img>  |
