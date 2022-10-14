@@ -124,9 +124,19 @@ Make sure you have the Stylus browser extension installed
     - **[Chrome Webstore](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)**  
     - **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)**  
 After installing, head over to [this link](https://userstyles.world/style/6817/youtube-mods-darkened) and click the "install" button. When it redirects you click "Install Stylus" button at the top left of that page.  
-    - Optional: **[I'm not interested in this fucking YouTube video!](https://greasyfork.org/en/scripts/436380-i-m-not-interested-in-this-youtube-video)**  
-    - Optional: **[Simple YouTube Age Restriction Bypass](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass)**  
-    You'll need TamperMonkey extension for the optional extension to work.  
+
+### 🔌 **You'll need TamperMonkey extension for the optional extension to work.**  
+**Main**  
+➪      Optional: **[I'm not interested in this fucking YouTube video!](https://greasyfork.org/en/scripts/436380-i-m-not-interested-in-this-youtube-video)**  
+➪      Optional: **[Simple YouTube Age Restriction Bypass](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass)**  
+**Other**  
+➪      Optional: **[Auto Close YouTube Ads](https://greasyfork.org/en/scripts/9165-auto-close-youtube-ads)**  
+➪      Optional: **[Youtube - dismiss sign-in](https://greasyfork.org/en/scripts/412178-youtube-dismiss-sign-in)**  
+➪      Optional: **[Login reminder popup remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover)**  
+**Better Performance**  
+➪ Optional: **[YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802-youtube-web-tweaks)** | It speeds up YouTube by 50% by modified configs (including the removal of the Shorts button and the "Video paused. Continue watching?" popup).  
+➪ Optional: **[YouTube CPU Tamer by AnimationFrame](https://greasyfork.org/en/scripts/431573-youtube-cpu-tamer-by-animationframe)** | Tested this whilst playing a game on my primary monitor and watching a video on my second monitor; it shockingly helped more than I thought it would. It's less choppy in most circumstances than it was with it off and makes it 20x more bearable. This, in conjunction with "YouTube Web Teaks", makes the overall experience of YouTube better, imo. Things load quicker, and it overall feels sharper.  
+
 
 ### ✅ Features
 * ✔️ Optional More Results
@@ -135,7 +145,8 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
 * ❌ I can't change the suggestion dropdown when you type in the search bar... With/without the privacy settings on  
 * ⭕ Work in progress, not perfect and more than likely never will be.
 * ⛔ May not work properly for other browsers, nor will it work that well when signed out
-* ⛔ I use the Brave Browser (V1.44.105 as of 05/10/2022)
+* ⛔ I use the Brave Browser (V1.44.105 as of 05/10/2022)  
+* ➪ ⛔ I have YouTube Premium, so I have no idea what it would look like without YouTube Premium.  
 
 <details>
   <summary align="center">📜 Configurable & Extra's</summary>
