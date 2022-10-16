@@ -163,20 +163,34 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
 
 ```css
 :root {
-  --background-primary: #212121;
-  --background-secondary: #090909;
-  --background-tertiary: #121212;
-  --background-hover: #202020;
-  --background-video-renderer: #101010;
-  --background-comment-renderer: rgba(28, 28, 28, 1);
-  --background-title: #151515;
-  --title-text: #ccc;
-  --avatar-radius: 0px;
-  --header-bar: flex; /* none = OFF | flex = ON */
-  --YouTube-logo: flex; /* none = OFF | flex = ON */
-  --entry-shorts: none; /* none = OFF | block = ON */
-  --Result-Tiles: 2;
-  --Main-Results-Width: 1920px; /* 1920px/2100px = Good | -webkit-fill-available = maximize space */
+    --background-primary: #212121;
+    --background-secondary: #090909;
+    --background-tertiary: #121212;
+    --background-hover: #202020;
+    --background-video-renderer: #101010;
+    --background-comment-renderer: rgba(28, 28, 28, 1);
+	--background-title: #151515;
+    --background-description: #181818;
+	--title-text: #ccc;
+    --avatar-radius: 0px;
+    /* => Optional Tweaks <= */
+    --header-Chip-bar: flex; /* none = OFF | flex = ON | Home Page */
+    --Sidebar-Buy-Advertisement: none; /* none = OFF | block = ON | Watching a Video Sidebar on right side */
+    --YouTube-Title-Hash-Tag: block; /* none = OFF | block = ON */
+    /* Sidebar */
+    --Home-Explore-Section-Sidebar: flex; /* none = OFF | flex = ON */
+    --Originals-Sidebar-Tab: flex; /* none = OFF | flex = ON */
+    --YouTube-Music-Sidebar-Tab: flex; /* none = OFF | flex = ON */
+    --Whole-Explore-Section-Sidebar: block;  /* none = OFF | block = ON */
+    --Whole-More-From-YouTube-Section: block; /* none = OFF | block = ON */
+    --Useless-Service-Sidebar-Tabs: flex; /* none = OFF | flex = ON */
+    --Sidebar-Credits-Footer: block; /* none = OFF | block = ON */
+    /* => Additions <= */
+    --Subscription-Tab-Tiles-Width: 1704px; /* 2343px/2130px/1920px for 1440p & 1704px for 1080p | Default: 1278px/1284px; */
+    --Comments: 2;
+    /* => YouTube Search Result Tiles Amount <= */
+    --Result-Tiles: 4;
+    --Main-Results-Width: -webkit-fill-available; /* 1920px/2100px = Good | -webkit-fill-available = maximize space */
 }
 ```
 
