@@ -124,6 +124,7 @@ Make sure you have the Stylus browser extension installed
     - **[Chrome Webstore](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)**  
     - **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)**  
 After installing, head over to [this link](https://userstyles.world/style/6817/youtube-mods-darkened) and click the "install" button. When it redirects you click "Install Stylus" button at the top left of that page.  
+**IMPORTANT**: Add/remove an "M" at the end of the "youtube.co(m)" below each snippet section for the snippet to work/not  
 
 ### 🔌 **You'll need TamperMonkey extension for the optional extension to work.**  
 **Main**  
