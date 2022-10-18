@@ -132,10 +132,11 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
 ➪      Optional: **[I'm not interested in this fucking YouTube video!](https://greasyfork.org/en/scripts/436380-i-m-not-interested-in-this-youtube-video)**  
 ➪      Optional: **[Simple YouTube Age Restriction Bypass](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass)**  
 **Other**  
-➪      Optional: **[Auto Close YouTube Ads](https://greasyfork.org/en/scripts/9165-auto-close-youtube-ads)**  
 ➪      Optional: **[Youtube - dismiss sign-in](https://greasyfork.org/en/scripts/412178-youtube-dismiss-sign-in)**  
 ➪      Optional: **[Login reminder popup remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover)**  
 ➪      Optional: **[YouTube - Proper Description](https://greasyfork.org/en/scripts/440613-youtube-proper-description)**  
+➪      Optional: **[Youtube Ad Cleaner(Include Non-Skippable Ads- works)](https://greasyfork.org/en/scripts/386925-youtube-ad-cleaner-include-non-skippable-ads-works)** or **[Auto Close YouTube Ads](https://greasyfork.org/en/scripts/9165-auto-close-youtube-ads)**  
+➪      Optional: **[YouTube - Remove YouTube shorts and noise from main page](https://greasyfork.org/en/scripts/450047-youtube-remove-youtube-shorts-and-noise-from-main-page)**  
 **Better Performance**  
 ➪ Optional: **[YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802-youtube-web-tweaks)** | It speeds up YouTube by 50% by modified configs (including the removal of the Shorts button and the "Video paused. Continue watching?" popup).  
 ➪ Optional: **[YouTube CPU Tamer by AnimationFrame](https://greasyfork.org/en/scripts/431573-youtube-cpu-tamer-by-animationframe)** | Tested this whilst playing a game on my primary monitor and watching a video on my second monitor; it shockingly helped more than I thought it would. It's less choppy in most circumstances than it was with it off and makes it 20x more bearable. This, in conjunction with "YouTube Web Teaks", makes the overall experience of YouTube better, imo. Things load quicker, and it overall feels sharper.  
@@ -170,9 +171,9 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
     --background-hover: #202020;
     --background-video-renderer: #101010;
     --background-comment-renderer: rgba(28, 28, 28, 1);
-	--background-title: #151515;
+    --background-title: #151515;
     --background-description: #181818;
-	--title-text: #ccc;
+    --title-text: #ccc;
     --avatar-radius: 0px;
     /* => Optional Tweaks <= */
     --header-Chip-bar: flex; /* none = OFF | flex = ON | Home Page */
