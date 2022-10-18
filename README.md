@@ -171,9 +171,9 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
     --background-hover: #202020;
     --background-video-renderer: #101010;
     --background-comment-renderer: rgba(28, 28, 28, 1);
-    --background-title: #151515;
+	  --background-title: #151515;
     --background-description: #181818;
-    --title-text: #ccc;
+  	--title-text: #ccc;
     --avatar-radius: 0px;
     /* => Optional Tweaks <= */
     --header-Chip-bar: flex; /* none = OFF | flex = ON | Home Page */
@@ -187,12 +187,17 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
     --Whole-More-From-YouTube-Section: block; /* none = OFF | block = ON */
     --Useless-Service-Sidebar-Tabs: flex; /* none = OFF | flex = ON */
     --Sidebar-Credits-Footer: block; /* none = OFF | block = ON */
+    --Donation-Containers: block; /* none = OFF | block = ON */
+    /* Video Toolbar Buttons | none = OFF | inline-flex = ON */
+    --Download-Button: inline-flex;
+    --Thanks-Button: inline-flex;
+    --Clip-Button: inline-flex;
     /* => Additions <= */
     --Subscription-Tab-Tiles-Width: 1704px; /* 2343px/2130px/1920px for 1440p & 1704px for 1080p | Default: 1278px/1284px; */
     --Comments: 2;
     /* => YouTube Search Result Tiles Amount <= */
+    --Main-Results-Width: 100%; /* 1920px/2100px = Good | 100% = maximize space */
     --Result-Tiles: 4;
-    --Main-Results-Width: -webkit-fill-available; /* 1920px/2100px = Good | -webkit-fill-available = maximize space */
 }
 ```
 
