@@ -1,6 +1,21 @@
 ![Darkened Stylus Edited](https://user-images.githubusercontent.com/78914154/191014782-882e8712-0aa4-441a-b7e4-cbb73d9e5fe6.png)
 
 <details>
+  <summary align="center">⛏ Very Useful/Convenient Scripts (TamperMonkey)</summary>
+  <br>
+
+**[Pagetual](https://greasyfork.org/en/scripts/438684-pagetual)** | Most powerful auto-pager script. Auto loading next paginated web pages and inserting into current page + supports thousands of sites.  
+**[AdsBypasser](https://greasyfork.org/en/scripts/4881-adsbypasser)** | Bypass Ads, very strong and supports hundreds of sites.  
+**[Crunchyroll Skip Ads](https://greasyfork.org/en/scripts/398005-crunchyroll-skip-ads)** | Skips ads on crunchyroll.  
+**[Netflix Marathon (Pausable)](https://greasyfork.org/en/scripts/420475-netflix-marathon-pausable)** | A configurable script that automatically skips recaps, intros, credits, and ads, and clicks "next episode" prompts on multiple sites.  
+**[Steam Bundle Sites Extension](https://greasyfork.org/en/scripts/32865-steam-bundle-sites-extension)** | A steam bundle sites' tool kits.  
+**[Login reminder popup remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover)** | Removes the nagging login popups and banners from multiple sites.  
+
+</details>
+
+---
+
+<details>
   <summary align="center">Nexus Mods Theme</summary>
   <br>
 
