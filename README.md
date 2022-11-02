@@ -21,7 +21,7 @@
 
 <h1 align="center">Preview</h1>
 
-![YouTube Home SS](https://user-images.githubusercontent.com/78914154/194886074-32361f7e-081b-4cc8-ada6-fef3bc42d070.png)
+![Main Game Mod Page](https://user-images.githubusercontent.com/78914154/199609133-ad16ca07-1913-4629-b7fe-313a04b4ac15.png)
 
 <h1 align="center">📌 Information</h1>
 
@@ -139,8 +139,8 @@ Make sure you have the Stylus browser extension installed
     - **[Chrome Webstore](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)**  
     - **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)**  
 After installing, head over to [this link](https://userstyles.world/style/6817/youtube-mods-darkened) and click the "install" button. When it redirects you click "Install Stylus" button at the top left of that page.  
-**IMPORTANT**: Add/remove an "M" at the end of the "youtube.co(m)" below each snippet section for the snippet to work/not  
-**IMPORTANT**: Enable Dark Mode in appearance settings 
+📢 **IMPORTANT**: Add/remove an "M" at the end of the "youtube.co(m)" below each snippet section for the snippet to work/not  
+📢 **IMPORTANT**: Enable Dark Mode in appearance settings 
 
 ### 🔌 **You'll need TamperMonkey extension for the optional extension to work.**  
 **Main**  
