@@ -13,7 +13,7 @@ body:
       - label: "I have checked other issues"
         required: true
   - type: dropdown
-    id: Which-theme?
+    id: discord-client
     attributes:
       label: 🖥️ What theme are you making this request for?
       options:
