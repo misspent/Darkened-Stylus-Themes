@@ -1,0 +1,39 @@
+/* I grabbed this from: https://github.com/discord-extensions/bubble-bar, tweaked it a little, and made my Import from it; thank you, LuckFire. */
+.base-2jDfDU .channelTextArea-220_Gz, .base-2jDfDU .channelTextArea-1FufC0, .base-2jDfDU .scrollableContainer-15eg7h {
+  background-color: transparent;
+}
+.base-2jDfDU .channelTextArea-1VQBuV .inner-NQg18Y {
+  margin-right: -15px;
+}
+.sansAttachButton-1ERHue {
+  padding-left: 0px;
+}
+.base-2jDfDU .channelTextArea-1VQBuV .inner-NQg18Y .textArea-2CLwUE {
+  margin-right: 3px;
+  border-radius: var(--server-radius);
+  background-color: var(--channeltextarea-background);
+}
+.base-2jDfDU .channelTextArea-1VQBuV .inner-NQg18Y .textArea-2CLwUE .fontSize16Padding-XoMpjI {
+  left: 8px;
+  padding-left: 0;
+}
+.base-2jDfDU .channelTextArea-1VQBuV .inner-NQg18Y .textArea-2CLwUE .slateTextArea-27tjG0 {
+  margin-right: 0px;
+  caret-color: #ccc;
+  border-radius: var(--server-radius);
+}
+.base-2jDfDU .channelTextArea-1VQBuV .inner-NQg18Y .buttons-uaqb-5 {
+  margin-right: 0;
+}
+.base-2jDfDU .channelTextArea-1VQBuV .inner-NQg18Y .button-f2h6uQ {
+  width: 38px;
+  height: 44px;
+  padding-right: 0px;
+  margin-left: 0;
+  padding: 0;
+  border-radius: var(--server-radius);
+  background-color: var(--channeltextarea-background);
+}.base-2jDfDU .channelTextArea-1VQBuV .inner-NQg18Y .button-f2h6uQ[aria-label="Upload a file or send invites"] {
+  width: 44px !important;
+  margin-right: 3px !important;
+}
