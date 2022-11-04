@@ -19,7 +19,7 @@ body:
       description: "Which theme is it for(Nexus/YouTube)? What is the extension/script's name and link to the site"
       value: |
         Name of theme it's for: 
-        The extention/script's name: 
+        The extension/script's name: 
         Link to the extension/script: 
       render: bash
   - type: textarea
@@ -28,7 +28,7 @@ body:
       label: "📝 Describe what you want added"
       description: "In detail describe what it's, why you want it and how you think it'll improve this theme. Screenshots will be appreciated."
     validations:
-      required: true
+      required: false
   - type: textarea
     id: other
     attributes:
