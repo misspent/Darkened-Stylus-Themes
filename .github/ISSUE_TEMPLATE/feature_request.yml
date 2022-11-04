@@ -15,12 +15,12 @@ body:
   - type: textarea
     id: plugin-feature
     attributes:
-      label: "🔌 Is your feature request related to a plugin you use?"
-      description: "Who is the developer? What is the plugin's name and does it get updated frequently?"
+      label: "🔌 Is your feature request related to an extension/script you use?"
+      description: "Which theme is it for(Nexus/YouTube)? What is the extension/script's name and link to the site"
       value: |
-        Developers name: 
-        The plugin's name: 
-        Most recent update date of the plugin in question: 
+        Name of theme it's for: 
+        The extention/script's name: 
+        Link to the extension/script: 
       render: bash
   - type: textarea
     id: solution
@@ -32,7 +32,7 @@ body:
   - type: textarea
     id: other
     attributes:
-      label: "➕ Something other than a Plugin request goes here"
+      label: "➕ Something other than a extension/script request goes here"
       description: "Describe what you want in a clear and concise manner; drop the .class here if you can/know how to."
   - type: textarea
     id: screenshots
