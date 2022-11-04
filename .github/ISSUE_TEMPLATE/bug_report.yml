@@ -1,0 +1,41 @@
+name: Bug Report
+description: Create a bug report.
+title: "[Bug]: "
+assignees: misspent
+labels: ["bug"]
+body:
+  - type: checkboxes
+    id: check
+    attributes:
+      label: 🔍 Did you check former issues?
+      description: "Please check out other issues before continuing. I will close this issue if it's a duplicate."
+      options:
+      - label: "I have checked other issues"
+        required: true
+  - type: dropdown
+    id: discord-client
+    attributes:
+      label: 🖥️ What discord client are you using?
+      options:
+        - BetterDiscord
+        - Powercord
+    validations:
+        required: true
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: "📝 Describe the bug in detail"
+      description: "Please describe the bug and make sure it's clear and concise."
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: "📸 Screenshots"
+      description: "If applicable, add screenshots to help give me a bigger picture of the issue at hand (It'll be very convenient and helpful if you do)."
+      render: bash
+  - type: textarea
+    id: other
+    attributes:
+      label: "➕ More the merrier"
+      description: "Off topic, redundant or something you didn't want in the description"

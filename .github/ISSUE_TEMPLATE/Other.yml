@@ -1,0 +1,49 @@
+name: Channel Icon
+description: Suggest a Channel Icon or fix.
+title: "[Channel Icon]: "
+assignees: misspent
+labels: ["Channel Icon"]
+body:
+  - type: checkboxes
+    id: check
+    attributes:
+      label: 🔍 Did you check former issues/requests?
+      description: "Please check out other issues before continuing. I will close this issue if it's a duplicate."
+      options:
+      - label: "I have checked other issues"
+        required: true
+  - type: checkboxes
+    id: check-useful
+    attributes:
+      label: 🔍 Do you have the HTML path or link to a site?
+      description: "HTML path = link/address"
+      options:
+      - label: "Yes, I have either one"
+        required: true
+  - type: textarea
+    id: icon-suggestion
+    attributes:
+      label: "📝 Channel Icon information"
+      description: "Where you got it from, HTML path and what's the name of the channel."
+      value: |
+        Site:
+        HTML Path: 
+        Channel Name:
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: "📸 Screenshots/Icon(s)"
+      description: "If applicable, add screenshots or Icon images here, this will make everything easier for you and me."
+      render: bash
+  - type: textarea
+    id: background-fix
+    attributes:
+      label: "🔨 Icon/Background fix"
+      description: "Fix for icon/background with no colour, whether it's a plugin or not."
+  - type: textarea
+    id: other
+    attributes:
+      label: "➕ More the merrier"
+      description: "Off topic, redundant or something you didn't want in the description"

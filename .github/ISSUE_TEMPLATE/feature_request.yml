@@ -1,0 +1,42 @@
+name: Feature Request
+description: Suggestion for the theme.
+title: "[Feature Request]: "
+assignees: misspent
+labels: [enhancement]
+body:
+  - type: checkboxes
+    id: check
+    attributes:
+      label: "🔍 Did you check former suggestions?"
+      description: "Please make sure this hasn't been requested before. I will close this issue if it's a duplicate."
+      options:
+      - label: "I have checked and can't find anything to do with it"
+        required: true
+  - type: textarea
+    id: plugin-feature
+    attributes:
+      label: "🔌 Is your feature request related to a plugin you use?"
+      description: "Who is the developer? What is the plugin's name and does it get updated frequently?"
+      value: |
+        Developers name: 
+        The plugin's name: 
+        Most recent update date of the plugin in question: 
+      render: bash
+  - type: textarea
+    id: solution
+    attributes:
+      label: "📝 Describe what you want added"
+      description: "In detail describe what it's, why you want it and how you think it'll improve this theme. Screenshots will be appreciated."
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+      label: "➕ Something other than a Plugin request goes here"
+      description: "Describe what you want in a clear and concise manner; drop the .class here if you can/know how to."
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: "📸 Screenshots"
+      description: "If applicable, add screenshots to help give me a bigger picture of the issue at hand (It'll be very convenient and helpful if you do)."
+      render: bash
