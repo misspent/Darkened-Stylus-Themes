@@ -12,36 +12,19 @@ body:
       options:
       - label: "I have checked other issues"
         required: true
-  - type: checkboxes
-    id: check-useful
-    attributes:
-      label: 🔍 Do you have the HTML path or link to a site?
-      description: "HTML path = link/address"
-      options:
-      - label: "Yes, I have either one"
-        required: true
   - type: textarea
-    id: icon-suggestion
+    id: solution
     attributes:
-      label: "📝 Channel Icon information"
-      description: "Where you got it from, HTML path and what's the name of the channel."
-      value: |
-        Site:
-        HTML Path: 
-        Channel Name:
+      label: "📝 Describe what you want"
+      description: "In detail describe what it's, and why you want it."
     validations:
-      required: true
+      required: false
   - type: textarea
     id: screenshots
     attributes:
-      label: "📸 Screenshots/Icon(s)"
-      description: "If applicable, add screenshots or Icon images here, this will make everything easier for you and me."
+      label: "📸 Screenshots"
+      description: "If applicable, add screenshots here, this will make everything easier for you and me."
       render: bash
-  - type: textarea
-    id: background-fix
-    attributes:
-      label: "🔨 Icon/Background fix"
-      description: "Fix for icon/background with no colour, whether it's a plugin or not."
   - type: textarea
     id: other
     attributes:
