@@ -13,12 +13,12 @@ body:
       - label: "I have checked other issues"
         required: true
   - type: dropdown
-    id: discord-client
+    id: Which theme?
     attributes:
-      label: 🖥️ What discord client are you using?
+      label: 🖥️ What theme are you making this request for?
       options:
-        - BetterDiscord
-        - Powercord
+        - Nexus Mods
+        - YouTube
     validations:
         required: true
   - type: textarea
