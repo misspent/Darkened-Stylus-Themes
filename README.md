@@ -149,6 +149,7 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
 **Other**  
 ➪      Optional: **[Youtube - dismiss sign-in](https://greasyfork.org/en/scripts/412178-youtube-dismiss-sign-in)**  
 ➪      Optional: **[Login reminder popup remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover)**  
+➪      Optional: **[YouTube Polymer Engine Fixes](https://greasyfork.org/en/scripts/405614-youtube-polymer-engine-fixes)**  
 ➪      Optional: **[YouTube - Proper Description](https://greasyfork.org/en/scripts/440613-youtube-proper-description)**  
 ➪      Optional: **[Youtube Ad Cleaner(Include Non-Skippable Ads- works)](https://greasyfork.org/en/scripts/386925-youtube-ad-cleaner-include-non-skippable-ads-works)** or **[Auto Close YouTube Ads](https://greasyfork.org/en/scripts/9165-auto-close-youtube-ads)**  
 ➪      Optional: **[YouTube - Remove YouTube shorts and noise from main page](https://greasyfork.org/en/scripts/450047-youtube-remove-youtube-shorts-and-noise-from-main-page)**  
