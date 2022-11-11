@@ -129,7 +129,7 @@ https://user-images.githubusercontent.com/78914154/191626228-b5b0e9ec-dd0b-4763-
 
 <h1 align="center">Preview</h1>
 
-![YouTube Home SS](https://user-images.githubusercontent.com/78914154/201340766-a351b45f-1df1-4af6-90ce-b42a0f7de6fa.png)
+![YouTube Home SS](https://user-images.githubusercontent.com/78914154/201341016-fbabb5ad-37e4-41e1-bf72-73319dbe03b1.png)
 
 <h1 align="center">📌 Information</h1>
 
