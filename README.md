@@ -16,6 +16,88 @@
 ---
 
 <details>
+  <summary align="center">Brave Search Engine Theme</summary>
+  <br>
+
+<h1 align="center">Preview</h1>
+
+![Brave All Results](https://user-images.githubusercontent.com/78914154/201535126-5c99542c-4659-4fd7-96f6-ca3ab2288320.png)
+
+<h1 align="center">📌 Information</h1>
+
+### 📥 Installation
+Set your appearance to "Dark" on YouTube  
+Make sure you have the Stylus browser extension installed   
+    - **[Chrome Webstore](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)**  
+    - **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)**  
+After installing, head over to [this link](https://userstyles.world/style/7292/brave-styled) and click the "install" button. When it redirects you click "Install Stylus" button at the top left of that page.  
+📢 **IMPORTANT**: Add/remove an "M" at the end of the "search.brave.co(m)" below each snippet section for the snippet to work/not  
+📢 **IMPORTANT**: Enable Dark Mode in quick settings 
+
+
+### ✅ Features
+* ✔️ Optional More Results
+* ❌ Can't change the colours of anything unless you know what you're looking for 
+* ⭕ Work in progress, not perfect and more than likely never will be.
+* ⛔ May not work properly for other browsers, nor will it work that well when signed out
+* ⛔ Works in different ways depending on your resolution, I only have 1440p display.
+* ⛔ I use the Brave Browser (V1.45.123 as of 12/11/2022)  
+
+<details>
+  <summary align="center">📜 Configurable & Extra's</summary>
+  <br>
+
+<h3 align="center">⌨ Variables</h3>
+
+```css
+:root {
+    --Feedback-Right-Sidebar-Button: none;  /* none = off, flex = on */
+    --Find-elsewhere-bar: none; /* none = off, flex = on */
+    /* => More Results Amount <= */
+    --Result-Tiles: 3; /* Default= 3 */
+}
+```
+
+</details>
+
+
+<h1 align="center", margin= "0">📷 More Screenshots</h1>
+
+<h4 align="center">(Previews/screenshots may become out-of-date at some point)</h4>
+
+
+<details>
+  <summary align="center">🖥️ Different Displays Examples</summary>
+  <br>
+
+<h3 align="center">1080p Display</h3>
+
+![Brave All Results (1080p Display)](https://user-images.githubusercontent.com/78914154/201535147-1c9e4273-d5eb-4ad8-b39d-d586bb4916d3.png)
+
+<h3 align="center">1440p Display</h3>
+
+![Brave All Results - More Results (1440p Display)](https://user-images.githubusercontent.com/78914154/201535151-a6d66ced-6ce0-424a-a224-cf6d9937e0ef.png)
+
+</details>
+
+
+<h3 align="center">More Results All Page (Optional)</h3>
+
+![Brave All Results - More Results](https://user-images.githubusercontent.com/78914154/201535136-2a827800-0cb8-4c55-b954-ce6abc213ed3.png)
+
+<h3 align="center">More News Results</h3>
+
+![Brave News Results](https://user-images.githubusercontent.com/78914154/201535190-be184f67-53d4-48fa-8ccb-9d94d06f9f58.png)
+
+| Videos Section | Images Section |
+| :---------: | :---------: |
+| <img width=475 src="https://user-images.githubusercontent.com/78914154/201535228-f7e21576-c955-4808-9efe-226300a5ce2c.png"></img>  | <img width=480 src="https://user-images.githubusercontent.com/78914154/201535182-b0879c2c-7abe-4009-b471-5219b3f93955.png"></img>  |
+
+
+</details>
+
+
+<details>
   <summary align="center">Nexus Mods Theme</summary>
   <br>
 
@@ -187,9 +269,9 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
     --background-hover: #202020;
     --background-video-renderer: #101010;
     --background-comment-renderer: rgba(28, 28, 28, 1);
-	  --background-title: #151515;
+   --background-title: #151515;
     --background-description: #181818;
-  	--title-text: #ccc;
+   --title-text: #ccc;
     --avatar-radius: 0px;
     /* => Optional Tweaks <= */
     --header-Chip-bar: flex; /* none = OFF | flex = ON | Home Page */
