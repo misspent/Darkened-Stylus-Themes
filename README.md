@@ -6,10 +6,12 @@
 
 **[Pagetual](https://greasyfork.org/en/scripts/438684-pagetual)** | Most powerful auto-pager script. Auto loading next paginated web pages and inserting into current page + supports thousands of sites.  
 **[AdsBypasser](https://greasyfork.org/en/scripts/4881-adsbypasser)** | Bypass Ads, very strong and supports hundreds of sites.  
+**[Linkify Plus Plus](https://greasyfork.org/en/scripts/4255-linkify-plus-plus)** | Based on Linkify Plus. Turn plain text URLs into links.  
 **[Crunchyroll Skip Ads](https://greasyfork.org/en/scripts/398005-crunchyroll-skip-ads)** | Skips ads on crunchyroll.  
 **[Netflix Marathon (Pausable)](https://greasyfork.org/en/scripts/420475-netflix-marathon-pausable)** | A configurable script that automatically skips recaps, intros, credits, and ads, and clicks "next episode" prompts on multiple sites.  
 **[Steam Bundle Sites Extension](https://greasyfork.org/en/scripts/32865-steam-bundle-sites-extension)** | A steam bundle sites' tool kits.  
 **[Login reminder popup remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover)** | Removes the nagging login popups and banners from multiple sites.  
+
 
 </details>
 
