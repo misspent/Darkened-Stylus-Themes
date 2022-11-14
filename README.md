@@ -271,27 +271,32 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
     --background-hover: #202020;
     --background-video-renderer: #101010;
     --background-comment-renderer: rgba(28, 28, 28, 1);
-   --background-title: #151515;
+	  --background-title: #151515;
     --background-description: #181818;
-   --title-text: #ccc;
+   	--title-text: #ccc;
+    --server-radius: 0px;
     --avatar-radius: 0px;
     /* => Optional Tweaks <= */
     --header-Chip-bar: flex; /* none = OFF | flex = ON | Home Page */
-    --Sidebar-Buy-Advertisement: none; /* none = OFF | block = ON | Watching a Video Sidebar on right side */
-    --YouTube-Title-Hash-Tag: block; /* none = OFF | block = ON */
+    --Sidebar-Buy-Download-Advertisement: none; /* none = OFF | block = ON | Watching a Video Sidebar on right side */
+    --YouTube-Title-Hash-Tag: none; /* none = OFF | block = ON */
+    --Donation-Containers: none; /* none = OFF | block = ON | Watching a Video Sidebar on right side */
+    --Only-Recommended-on-Homepage: none; /* none = OFF | flex = ON */
+    --Action-Bar-Names-Save-Share-Etc: inline-block; /* none = OFF | inline-flex = ON */
+    --Info-Card: none; /* none = OFF | flex = ON */
     /* Sidebar */
+    --entry-shorts: none; /* none = OFF | flex = ON */
     --Home-Explore-Section-Sidebar: flex; /* none = OFF | flex = ON */
     --Originals-Sidebar-Tab: flex; /* none = OFF | flex = ON */
     --YouTube-Music-Sidebar-Tab: flex; /* none = OFF | flex = ON */
     --Whole-Explore-Section-Sidebar: block;  /* none = OFF | block = ON */
     --Whole-More-From-YouTube-Section: block; /* none = OFF | block = ON */
     --Useless-Service-Sidebar-Tabs: flex; /* none = OFF | flex = ON */
-    --Sidebar-Credits-Footer: block; /* none = OFF | block = ON */
-    --Donation-Containers: block; /* none = OFF | block = ON */
+    --Sidebar-Credits-Footer: none; /* none = OFF | block = ON */
     /* Video Toolbar Buttons | none = OFF | inline-flex = ON */
     --Download-Button: inline-flex;
-    --Thanks-Button: inline-flex;
-    --Clip-Button: inline-flex;
+    --Thanks-Button: none;
+    --Clip-Button: none;
     /* => Additions <= */
     --Subscription-Tab-Tiles-Width: 1704px; /* 2343px/2130px/1920px for 1440p & 1704px for 1080p | Default: 1278px/1284px; */
     --Comments: 2;
