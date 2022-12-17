@@ -22,6 +22,9 @@ FastForward](https://github.com/FastForwardTeam/FastForward)** | Don't waste you
 </details>
 
 ---
+<p align="center">
+📢 IMPORTANT: Set "layout.css.has-selector.enabled" to “true” in "about:config" on Firefox for :has selector to work.
+<p>
 
 <details>
   <summary align="center">Brave Search Engine Theme</summary>
