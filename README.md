@@ -1,7 +1,7 @@
 ![Darkened Stylus Edited](https://user-images.githubusercontent.com/78914154/191014782-882e8712-0aa4-441a-b7e4-cbb73d9e5fe6.png)
 
 <details>
-  <summary align="center">⛏ Very Useful/Convenient Scripts or Extensions (TamperMonkey)</summary>
+  <summary align="center">⛏ Very Useful/Convenient Extensions & Scripts (TamperMonkey)</summary>
   <br>
 
 ### Extensions
@@ -34,8 +34,6 @@
 **[Linkify Plus Plus](https://greasyfork.org/en/scripts/4255-linkify-plus-plus)** | Based on Linkify Plus. Turn plain text URLs into links.  
 **[Pirated games on store pages](https://greasyfork.org/en/scripts/447044-pirated-games-on-store-pages)** | Adds links to pirated games on multiple stores.  
 **[Anti-Cookies Consent](https://greasyfork.org/en/scripts/432050-anti-cookies-consent/code)** / **[I still don't care about cookies](https://chrome.google.com/webstore/detail/i-still-dont-care-about-c/edibdbjcniadpccecjdfdjjppcpchdlm/related)** | Removes cookie warnings/pop-ups.  
-**[Login reminder popup remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover)** | Removes the nagging login popups and banners from multiple sites.  
-**[FastForward](https://github.com/FastForwardTeam/FastForward)** | Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.   
 
 </details>
 
