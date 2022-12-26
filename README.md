@@ -5,7 +5,6 @@
   <br>
 
 **[Pagetual](https://greasyfork.org/en/scripts/438684-pagetual)** | Most powerful auto-pager script. Auto loading next paginated web pages and inserting into current page + supports thousands of sites.  
-**[AdsBypasser](https://greasyfork.org/en/scripts/4881-adsbypasser)** | Bypass Ads, very strong and supports hundreds of sites.  
 **[Linkify Plus Plus](https://greasyfork.org/en/scripts/4255-linkify-plus-plus)** | Based on Linkify Plus. Turn plain text URLs into links.  
 ~~**[Crunchyroll Skip Ads](https://greasyfork.org/en/scripts/398005-crunchyroll-skip-ads)**~~ | Skips ads on crunchyroll.  
 **[Netflix Marathon (Pausable)](https://greasyfork.org/en/scripts/420475-netflix-marathon-pausable)** | A configurable script that automatically skips recaps, intros, credits, and ads, and clicks "next episode" prompts on multiple sites.  
@@ -14,8 +13,9 @@
 **[Anti-Cookies Consent](https://greasyfork.org/en/scripts/432050-anti-cookies-consent/code)** / **[I still don't care about cookies](https://chrome.google.com/webstore/detail/i-still-dont-care-about-c/edibdbjcniadpccecjdfdjjppcpchdlm/related)** | Removes cookie warnings/pop-ups.  
 
 ### Fun Stuff
-~~**[Bypass all shortlink](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks)**~~ | Bypass All Shortlinks Sites Automatically Skips Annoying Link Shorteners (developer puts his own ads in... Tis a 300 IQ move). `@antifeature` popup info [click me](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks/discussions/137686#comment-304925)  
+~~**[Bypass all shortlink](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks)** | Bypass All Shortlinks Sites Automatically Skips Annoying Link Shorteners (developer puts his own ads in... Tis a 300 IQ move). `@antifeature` popup info [click me](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks/discussions/137686#comment-304925)~~  
 **[AdNauseam](https://github.com/dhowe/AdNauseam)** | If what they say does work, then I'm sold **[Click me](https://youtu.be/jJsGxsF3CLc)**.  
+**[uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)** | Bypass Ads, link shortner, script blocker and much more.  
 **[
 FastForward](https://github.com/FastForwardTeam/FastForward)** | Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.   
 
