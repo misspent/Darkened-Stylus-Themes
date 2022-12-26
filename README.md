@@ -36,7 +36,6 @@
 **[Anti-Cookies Consent](https://greasyfork.org/en/scripts/432050-anti-cookies-consent/code)** / **[I still don't care about cookies](https://chrome.google.com/webstore/detail/i-still-dont-care-about-c/edibdbjcniadpccecjdfdjjppcpchdlm/related)** | Removes cookie warnings/pop-ups.  
 **[Login reminder popup remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover)** | Removes the nagging login popups and banners from multiple sites.  
 **[FastForward](https://github.com/FastForwardTeam/FastForward)** | Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.   
-**[Netflix Marathon (Pausable)](https://greasyfork.org/en/scripts/420475-netflix-marathon-pausable)** | A configurable script that automatically skips recaps, intros, credits, and ads, and clicks "next episode" prompts on multiple sites.  
 
 </details>
 
