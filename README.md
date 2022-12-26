@@ -15,7 +15,7 @@
 **[Vimium C - All by Keyboard](https://addons.mozilla.org/en-US/firefox/addon/vimium-c/)** | A keyboard shortcut tool for keyboard-based page navigation + more.  
 **[Simple Translate](https://addons.mozilla.org/en-US/firefox/addon/simple-translate/)** | Quickly translate selected or typed text on web pages. Supports Google Translate and DeepL API.  
 
-### Script
+### Scripts
 **[Steam Bundle Sites Extension](https://greasyfork.org/en/scripts/32865-steam-bundle-sites-extension)** | A steam bundle sites' tool kits.  
 **[Login reminder popup remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover)** | Removes the nagging login popups and banner.  
 **[YouTube CPU Tamer by AnimationFrame](https://greasyfork.org/en/scripts/431573-youtube-cpu-tamer-by-animationframe)** | Reduce Browser's Energy Impact for playing YouTube Video.  
