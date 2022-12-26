@@ -4,20 +4,39 @@
   <summary align="center">⛏ Very Useful/Convenient Scripts or Extensions (TamperMonkey)</summary>
   <br>
 
-**[Pagetual](https://greasyfork.org/en/scripts/438684-pagetual)** | Most powerful auto-pager script. Auto loading next paginated web pages and inserting into current page + supports thousands of sites.  
-**[Linkify Plus Plus](https://greasyfork.org/en/scripts/4255-linkify-plus-plus)** | Based on Linkify Plus. Turn plain text URLs into links.  
-~~**[Crunchyroll Skip Ads](https://greasyfork.org/en/scripts/398005-crunchyroll-skip-ads)**~~ | Skips ads on crunchyroll.  
-**[Netflix Marathon (Pausable)](https://greasyfork.org/en/scripts/420475-netflix-marathon-pausable)** | A configurable script that automatically skips recaps, intros, credits, and ads, and clicks "next episode" prompts on multiple sites.  
-**[Steam Bundle Sites Extension](https://greasyfork.org/en/scripts/32865-steam-bundle-sites-extension)** | A steam bundle sites' tool kits.  
-**[Login reminder popup remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover)** | Removes the nagging login popups and banners from multiple sites.  
-**[Anti-Cookies Consent](https://greasyfork.org/en/scripts/432050-anti-cookies-consent/code)** / **[I still don't care about cookies](https://chrome.google.com/webstore/detail/i-still-dont-care-about-c/edibdbjcniadpccecjdfdjjppcpchdlm/related)** | Removes cookie warnings/pop-ups.  
+### Extensions
+**[Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/)** | Build, save and share beautiful Firefox themes.  
+**[Canvas Blocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)** | Alters some JS APIs to prevent fingerprinting.  
+**[Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean/)** | Bypass Paywalls of (custom) news sites.  
+**[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)** | Bypass Ads, link shortner, script blocker and much more.  
+**[DownThemAll!](https://addons.mozilla.org/en-US/firefox/addon/downthemall/)** | The Mass Downloader for your browser; this does a lot more than I thought.  
+**[Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)** | Take control of YouTube and boost your user experience! Bye Bye ads.  
+**[FastForward](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)** | Don't waste time with compliance. Use FastForward to skip annoying URL "shorteners".  
+**[Vimium C - All by Keyboard](https://addons.mozilla.org/en-US/firefox/addon/vimium-c/)** | A keyboard shortcut tool for keyboard-based page navigation + more.  
+**[Simple Translate](https://addons.mozilla.org/en-US/firefox/addon/simple-translate/)** | Quickly translate selected or typed text on web pages. Supports Google Translate and DeepL API.  
 
-### Fun Stuff
-~~**[Bypass all shortlink](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks)** | Bypass All Shortlinks Sites Automatically Skips Annoying Link Shorteners (developer puts his own ads in... Tis a 300 IQ move). `@antifeature` popup info [click me](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks/discussions/137686#comment-304925)~~  
+### Script
+**[Steam Bundle Sites Extension](https://greasyfork.org/en/scripts/32865-steam-bundle-sites-extension)** | A steam bundle sites' tool kits.  
+**[Login reminder popup remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover)** | Removes the nagging login popups and banner.  
+**[YouTube CPU Tamer by AnimationFrame](https://greasyfork.org/en/scripts/431573-youtube-cpu-tamer-by-animationframe)** | Reduce Browser's Energy Impact for playing YouTube Video.  
+**[Nexus No Wait](https://greasyfork.org/en/scripts/394039-nexus-no-wait)** | Download from Nexusmods.com without wait and redirect (support Manual/Vortex/MO2/NMM).  
+**[Simple YouTube Age Restriction Bypass](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass)** | Watch age restricted videos on YouTube without login and without age verification.  
+**[Get Data from Steam / SteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB/)** | Extracts all data needed to generate DLCs formats, depot.sha1 and appmanifest.acf for Steam games.  
+**[Youtube-Recommended-Remover](https://github.com/misspent/Youtube-Recommended-Remover)** | Hover over a YouTube video's thumbnail with your mouse while holding down assigned key to remove it.  
+**[Pagetual](https://greasyfork.org/en/scripts/438684-pagetual)** | Most powerful auto-pager script. Auto loading next paginated web pages and inserting into current page + supports thousands of sites.  
+**[YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802-youtube-web-tweaks)** | It speeds up YouTube by 50% by modified configs (including the removal of the annoying "Video paused. Continue watching?" popup).  
+**[Netflix Marathon (Pausable)](https://greasyfork.org/en/scripts/420475-netflix-marathon-pausable)** | skips recaps, intros, credits, and ads, and clicks "next episode" prompts on Netflix, Amazon Prime Video, Hulu, HBO Max, Starz, Disney+, and Hotstar.  
+
+### Others
+~~**[Crunchyroll Skip Ads](https://greasyfork.org/en/scripts/398005-crunchyroll-skip-ads)**~~ | Skips ads on crunchyroll.  
+**[Steam Bundle Sites Extension](https://greasyfork.org/en/scripts/32865-steam-bundle-sites-extension)** | A steam bundle sites' tool kits.  
 **[AdNauseam](https://github.com/dhowe/AdNauseam)** | If what they say does work, then I'm sold **[Click me](https://youtu.be/jJsGxsF3CLc)**.  
-**[uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)** | Bypass Ads, link shortner, script blocker and much more.  
-**[
-FastForward](https://github.com/FastForwardTeam/FastForward)** | Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.   
+**[Linkify Plus Plus](https://greasyfork.org/en/scripts/4255-linkify-plus-plus)** | Based on Linkify Plus. Turn plain text URLs into links.  
+**[Pirated games on store pages](https://greasyfork.org/en/scripts/447044-pirated-games-on-store-pages)** | Adds links to pirated games on multiple stores.  
+**[Anti-Cookies Consent](https://greasyfork.org/en/scripts/432050-anti-cookies-consent/code)** / **[I still don't care about cookies](https://chrome.google.com/webstore/detail/i-still-dont-care-about-c/edibdbjcniadpccecjdfdjjppcpchdlm/related)** | Removes cookie warnings/pop-ups.  
+**[Login reminder popup remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover)** | Removes the nagging login popups and banners from multiple sites.  
+**[FastForward](https://github.com/FastForwardTeam/FastForward)** | Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.   
+**[Netflix Marathon (Pausable)](https://greasyfork.org/en/scripts/420475-netflix-marathon-pausable)** | A configurable script that automatically skips recaps, intros, credits, and ads, and clicks "next episode" prompts on multiple sites.  
 
 </details>
 
