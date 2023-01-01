@@ -17,6 +17,7 @@
 
 ### Scripts
 **[Steam Bundle Sites Extension](https://greasyfork.org/en/scripts/32865-steam-bundle-sites-extension)** | A steam bundle sites' tool kits.  
+**[General URL Cleaner](https://greasyfork.org/en/scripts/395298-general-url-cleaner)**/**[Link Untracker](https://greasyfork.org/en/scripts/35605-link-untracker)** | Remove tracking elements from links.  
 **[Login reminder popup remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover)** | Removes the nagging login popups and banner.  
 **[YouTube CPU Tamer by AnimationFrame](https://greasyfork.org/en/scripts/431573-youtube-cpu-tamer-by-animationframe)** | Reduce Browser's Energy Impact for playing YouTube Video.  
 **[Nexus No Wait](https://greasyfork.org/en/scripts/394039-nexus-no-wait)** | Download from Nexusmods.com without wait and redirect (support Manual/Vortex/MO2/NMM).  
