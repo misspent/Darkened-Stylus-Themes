@@ -8,7 +8,7 @@
 **[Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/)** | Build, save and share beautiful Firefox themes.  
 **[Canvas Blocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)** | Alters some JS APIs to prevent fingerprinting.  
 **[Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean/)** | Bypass Paywalls of (custom) news sites.  
-**[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)** | Bypass Ads, link shortner, script blocker and much more.  
+**[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)** | Bypass Ads, link shortner, script blocker and much more | **[The Big Blocklist Collection](https://firebog.net/)**.  
 **[DownThemAll!](https://addons.mozilla.org/en-US/firefox/addon/downthemall/)** | The Mass Downloader for your browser; this does a lot more than I thought.  
 **[Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)** | Take control of YouTube and boost your user experience! Bye Bye ads.  
 **[FastForward](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)** | Don't waste time with compliance. Use FastForward to skip annoying URL "shorteners".  
