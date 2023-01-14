@@ -14,6 +14,7 @@
 **[FastForward](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)** | Don't waste time with compliance. Use FastForward to skip annoying URL "shorteners".  
 **[Vimium C - All by Keyboard](https://addons.mozilla.org/en-US/firefox/addon/vimium-c/)** | A keyboard shortcut tool for keyboard-based page navigation + more.  
 **[Simple Translate](https://addons.mozilla.org/en-US/firefox/addon/simple-translate/)** | Quickly translate selected or typed text on web pages. Supports Google Translate and DeepL API.  
+**[SponsorBlock - Skip Sponsorships on YouTube](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock)**  | An community driven database to remove sponsors section and stuff from YouTube videos. (not to be confused with ads.)  
 
 ### Scripts
 **[Steam Bundle Sites Extension](https://greasyfork.org/en/scripts/32865-steam-bundle-sites-extension)** | A steam bundle sites' tool kits.  
