@@ -29,6 +29,7 @@
 **[Pagetual](https://greasyfork.org/en/scripts/438684-pagetual)** | Most powerful auto-pager script. Auto loading next paginated web pages and inserting into current page + supports thousands of sites.  
 **[YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802-youtube-web-tweaks)** | It speeds up YouTube by 50% by modified configs (including the removal of the annoying "Video paused. Continue watching?" popup).  
 **[Netflix Marathon (Pausable)](https://greasyfork.org/en/scripts/420475-netflix-marathon-pausable)** | skips recaps, intros, credits, and ads, and clicks "next episode" prompts on Netflix, Amazon Prime Video, Hulu, HBO Max, Starz, Disney+, and Hotstar.  
+**[Steam Currency Convert: Convert ARS to USD](https://greasyfork.org/en/scripts/444117-steam-currency-convert-convert-ars-to-usd)** | Very easy to modify yourself.  
 
 ### Others
 ~~**[Crunchyroll Skip Ads](https://greasyfork.org/en/scripts/398005-crunchyroll-skip-ads)**~~ | Skips ads on crunchyroll.  
