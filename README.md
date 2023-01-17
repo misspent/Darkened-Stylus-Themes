@@ -8,7 +8,6 @@
 **[Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/)** | Build, save and share beautiful Firefox themes.  
 **[Canvas Blocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)** | Alters some JS APIs to prevent fingerprinting.  
 **[Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean/)** | Bypass Paywalls of (custom) news sites.  
-**[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)** | Bypass Ads, link shortner, script blocker and much more | **[The Big Blocklist Collection](https://firebog.net/)** | **[Block Keywords](https://www.reddit.com/r/uBlockOrigin/comments/zwmasb/anyone_has_any_idea_how_to_block_keywords_on/)** | **[Hide Element That Contains A Certain Word](https://superuser.com/questions/1285891/ublock-hide-any-element-that-contains-text-with-a-given-word)**.  
 **[DownThemAll!](https://addons.mozilla.org/en-US/firefox/addon/downthemall/)** | The Mass Downloader for your browser; this does a lot more than I thought.  
 **[Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)** | Take control of YouTube and boost your user experience! Bye Bye ads.  
 **[FastForward](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)** | Don't waste time with compliance. Use FastForward to skip annoying URL "shorteners".  
@@ -16,6 +15,7 @@
 **[Simple Translate](https://addons.mozilla.org/en-US/firefox/addon/simple-translate/)** | Quickly translate selected or typed text on web pages. Supports Google Translate and DeepL API.  
 **[New Window Setup](https://addons.mozilla.org/en-US/firefox/addon/new_window_setup/)** | New Window Setup allows you to setup where will Firefox create new windows - on which monitor and with what size.  
 **[SponsorBlock - Skip Sponsorships on YouTube](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock)**  | An community driven database to remove sponsors section and stuff from YouTube videos. (not to be confused with ads.)  
+**[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)** | Bypass Ads, link shortner, script blocker and much more | **[The Big Blocklist Collection](https://firebog.net/)** | **[Block Keywords](https://www.reddit.com/r/uBlockOrigin/comments/zwmasb/anyone_has_any_idea_how_to_block_keywords_on/)** | **[Hide Element That Contains A Certain Word](https://superuser.com/questions/1285891/ublock-hide-any-element-that-contains-text-with-a-given-word)** & **[Filter Syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#style)**.  
 
 ### Scripts
 **[Steam Bundle Sites Extension](https://greasyfork.org/en/scripts/32865-steam-bundle-sites-extension)** | A steam bundle sites' tool kits.  
