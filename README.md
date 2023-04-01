@@ -13,7 +13,9 @@
 **[FastForward](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)** | Don't waste time with compliance. Use FastForward to skip annoying URL "shorteners".  
 **[Vimium C - All by Keyboard](https://addons.mozilla.org/en-US/firefox/addon/vimium-c/)** | A keyboard shortcut tool for keyboard-based page navigation + more.  
 **[Simple Translate](https://addons.mozilla.org/en-US/firefox/addon/simple-translate/)** | Quickly translate selected or typed text on web pages. Supports Google Translate and DeepL API.  
+**[Skip Redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/)** | This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.  
 **[New Window Setup](https://addons.mozilla.org/en-US/firefox/addon/new_window_setup/)** | New Window Setup allows you to setup where will Firefox create new windows - on which monitor and with what size.  
+**[Gesturefy](https://addons.mozilla.org/en-US/firefox/addon/gesturefy/)** | Navigate, operate, and browse faster with mouse gestures! A customizable mouse gesture add-on with a variety of different commands.  
 **[SponsorBlock - Skip Sponsorships on YouTube](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock)**  | An community driven database to remove sponsors section and stuff from YouTube videos. (not to be confused with ads.)  
 **[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)** | Bypass Ads, link shortner, script blocker and much more | **[The Big Blocklist Collection](https://firebog.net/)** | **[Block Keywords](https://www.reddit.com/r/uBlockOrigin/comments/zwmasb/anyone_has_any_idea_how_to_block_keywords_on/)** | **[Hide Element That Contains A Certain Word](https://superuser.com/questions/1285891/ublock-hide-any-element-that-contains-text-with-a-given-word)** & **[Filter Syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#style)**.  
 
