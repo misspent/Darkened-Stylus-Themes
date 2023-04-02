@@ -350,7 +350,7 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
 
 <h3 align="center">YouTube Watching Video</h3>
 
-![YouTube Watching Video SS  Version 2](https://user-images.githubusercontent.com/78914154/194672920-15681603-c9d2-413f-b300-2aa3e30af7c9.png)
+![YouTube Watching Video SS  Version 4](https://user-images.githubusercontent.com/78914154/229382329-0e33d87b-6d22-44b6-b7ad-c3c514e57011.png)
 
 <h3 align="center">Compact and More Results (Both Optional)</h3>
 
