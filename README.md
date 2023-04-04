@@ -352,6 +352,10 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
 
 ![YouTube Watching Video SS  Version 4](https://user-images.githubusercontent.com/78914154/229382329-0e33d87b-6d22-44b6-b7ad-c3c514e57011.png)
 
+<h3 align="center">[1440p] Watching Video in Theater mode (Configurable)</h3>
+	
+![1440p Theater Tweak - Everything in section Dream Stuff](https://user-images.githubusercontent.com/78914154/229839432-1676e0de-0349-422f-a6c8-11a7263fbe18.png)
+
 <h3 align="center">Compact and More Results (Both Optional)</h3>
 
 ![GIF  Optional Compact and More Results](https://user-images.githubusercontent.com/78914154/194886541-2980fd74-b455-4be0-aa83-ec19108bc4af.gif)
