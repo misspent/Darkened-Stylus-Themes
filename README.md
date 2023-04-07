@@ -244,7 +244,7 @@ https://user-images.githubusercontent.com/78914154/191626228-b5b0e9ec-dd0b-4763-
 
 <h1 align="center">Preview</h1>
 
-![YouTube Home SS](https://user-images.githubusercontent.com/78914154/201341016-fbabb5ad-37e4-41e1-bf72-73319dbe03b1.png)
+![Home Page - Highly Configurable  Edited](https://user-images.githubusercontent.com/78914154/230607792-18bb785f-9bb3-4839-a5f9-6cf08cb143d7.gif)
 
 <h1 align="center">📌 Information</h1>
 
