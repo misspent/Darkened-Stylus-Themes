@@ -67,14 +67,20 @@ After installing, head over to [this link](https://userstyles.world/style/7292/b
 📢 **IMPORTANT**: Add/remove an "M" at the end of the "search.brave.co(m)" below each snippet section for the snippet to work/not  
 📢 **IMPORTANT**: Enable Dark Mode in quick settings 
 
-
 ### ✅ Features
-* ✔️ Optional More Results
-* ❌ Can't change the colours of anything unless you know what you're looking for 
+* ✔️ Optional More Home Results
+* ✔️ Optional More Comments Results
+* ✔️ Optional Sidebar Hidden unless hovered
+* ✔️ Optional More Watching Video Recommended Results
+* ✔️ Remove text from action buttons except the Like/Dislike buttons
+* ✔️ Old YouTube Layout (not made by me | Thank You sapondanaisriwan)
+* ✔️ + More options that I'm too lazy to add here
+* ❌ Can't change the colours of certain stuff unless you know what you're looking for
+* ❌ I can't change the suggestion dropdown when you select the search bar… With/without the privacy settings on  
 * ⭕ Work in progress, not perfect and more than likely never will be.
 * ⛔ May not work properly for other browsers, nor will it work that well when signed out
-* ⛔ Works in different ways depending on your resolution, I only have 1440p display.
-* ⛔ I use the Brave Browser (V1.45.123 as of 12/11/2022)  
+* ⛔ I use the LibreWolf Browser (108.0.1-1 as of 07/04/2023)
+* ➪ ⛔ ~~I have YouTube Premium, so I have no idea what it would look like without YouTube Premium~~.
 
 <details>
   <summary align="center">📜 Configurable & Extra's</summary>
