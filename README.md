@@ -69,18 +69,10 @@ After installing, head over to [this link](https://userstyles.world/style/7292/b
 
 ### ✅ Features
 * ✔️ Optional More Home Results
-* ✔️ Optional More Comments Results
-* ✔️ Optional Sidebar Hidden unless hovered
-* ✔️ Optional More Watching Video Recommended Results
-* ✔️ Remove text from action buttons except the Like/Dislike buttons
-* ✔️ Old YouTube Layout (not made by me | Thank You sapondanaisriwan)
 * ✔️ + More options that I'm too lazy to add here
-* ❌ Can't change the colours of certain stuff unless you know what you're looking for
-* ❌ I can't change the suggestion dropdown when you select the search bar… With/without the privacy settings on  
 * ⭕ Work in progress, not perfect and more than likely never will be.
 * ⛔ May not work properly for other browsers, nor will it work that well when signed out
 * ⛔ I use the LibreWolf Browser (108.0.1-1 as of 07/04/2023)
-* ➪ ⛔ ~~I have YouTube Premium, so I have no idea what it would look like without YouTube Premium~~.
 
 <details>
   <summary align="center">📜 Configurable & Extra's</summary>
@@ -284,14 +276,19 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
 
 
 ### ✅ Features
-* ✔️ Optional More Results
-* ✔️ Optional Compact Comments
+* ✔️ Optional More Home Results
+* ✔️ Optional More Comments Results
+* ✔️ Optional Sidebar Hidden unless hovered
+* ✔️ Optional More Watching Video Recommended Results
+* ✔️ Remove text from action buttons except the Like/Dislike buttons
+* ✔️ Old YouTube Layout (not made by me | Thank You sapondanaisriwan)
+* ✔️ + More options that I'm too lazy to add here
 * ❌ Can't change the colours of certain stuff unless you know what you're looking for
-* ❌ I can't change the suggestion dropdown when you type in the search bar... With/without the privacy settings on  
+* ❌ I can't change the suggestion dropdown when you select the search bar… With/without the privacy settings on  
 * ⭕ Work in progress, not perfect and more than likely never will be.
 * ⛔ May not work properly for other browsers, nor will it work that well when signed out
-* ⛔ I use the Brave Browser (V1.44.105 as of 05/10/2022)  
-* ➪ ⛔ I have YouTube Premium, so I have no idea what it would look like without YouTube Premium.  
+* ⛔ I use the LibreWolf Browser (108.0.1-1 as of 07/04/2023)
+* ➪ ⛔ ~~I have YouTube Premium, so I have no idea what it would look like without YouTube Premium~~.
 
 <details>
   <summary align="center">📜 Configurable & Extra's</summary>
@@ -312,9 +309,9 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
     --background-hover: #202020;
     --background-video-renderer: #101010;
     --background-comment-renderer: rgba(28, 28, 28, 1);
-	  --background-title: #151515;
+    --background-title: #151515;
     --background-description: #181818;
-   	--title-text: #ccc;
+    --title-text: #ccc;
     --server-radius: 0px;
     --avatar-radius: 0px;
     /* => Optional Tweaks <= */
