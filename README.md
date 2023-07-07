@@ -260,7 +260,7 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
 ➪      Optional: **[SponsorBlock - Skip Sponsorships on YouTube](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock)**  | An community driven database to remove sponsors section and stuff from YouTube videos. (not to be confused with ads.)  
 ➪      Optional: **[I'm not interested in this fucking YouTube video!](https://greasyfork.org/en/scripts/436380-i-m-not-interested-in-this-youtube-video)**  
 ➪      Optional: **[Simple YouTube Age Restriction Bypass](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass)**  
-➪      Optional: **[Youtube - Resume](https://greasyfork.org/en/scripts/40517-youtube-resume)**  
+➪      Optional: **[Youtube Anti Shorts](https://greasyfork.org/en/scripts/441709-youtube-anti-shorts)**  
 **Other**  
 ➪      Optional: **[Youtube - dismiss sign-in](https://greasyfork.org/en/scripts/412178-youtube-dismiss-sign-in)**  
 ➪      Optional: **[Login reminder popup remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover)**  
