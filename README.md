@@ -346,6 +346,62 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
 
 </details>
 
+<details>
+  <summary align="center">My uBlock Origin Filters</summary>
+  <br>
+
+## ⌛ Add this to your "My Filters" page
+
+```
+! ===============================> YouTube <===============================
+! iframe redirect | Remove this if you don't want the uBlock lock on videos that aren't on YouTube
+||youtube.com^$3p,frame,redirect=click2load.html
+||youtube-nocookie.com^$3p,frame,redirect=click2load.html
+! Removes Google Dialogs Login on Various Sites
+||accounts.google.com/gsi/*$xhr,script,3p
+
+! YouTube Comments Cleaner | This removes those bot comments... Add more if you find them | Top = replies of replies, bottom = comment itself
+www.youtube.com##.ytd-comment-replies-renderer:has(#author-text) .style-scope.ytd-comment-renderer:has-text(/Finally it’s here|Here is new fu vid!|This is the clip u all looking for|Here is new ful vid!|Here is new full vid!|Finally Here is the fu clips!!| Finally Here is the ful clips!!|Finally Here is the full clips!!|translate|LETS BE HONEST WE ALL REMEMBER THIS RECORD|I forgot to close the camera|my content is better|Here is the full clip|DONT READ MY PROFILE PICTURE|Look at my banner for cookies|I upload funny entertaining videos|Lucky prize winners|Claim your prize|you will see it|Read My Profile|Link to the clip that explains|IM SUBBING EVERYONE WHO SUBS ME|IM SUBBING EVERYONE WHO SUBS TO ME|JJ said my music was fire on my page |MY CONTENT IS SO MUCH BETTER|BOT|L bot|Ratio bot|okay bot|Telegram|Teleegram|https://youtu.be/-1ddgHa_c-0|https://youtu.be/yoUsZ5cyu-4|F*CК МЕ. ТАР 0N MY РIC|TАР 0N MY РIC/i)
+www.youtube.com###contents .style-scope.ytd-item-section-renderer:has-text(/Telegram|Teleegram/i)
+
+! YouTube Keywords blur thumbnail | Search Results
+www.youtube.com##ytd-video-renderer:has-text(Trailer) ytd-thumbnail:style(filter: grayscale(100%) blur(8px))
+www.youtube.com##ytd-video-renderer:has-text(Spoiler) ytd-thumbnail:style(filter: grayscale(100%) blur(8px))
+www.youtube.com##ytd-video-renderer:has-text(Final Boss) ytd-thumbnail:style(filter: grayscale(100%) blur(8px))
+! YouTube Keywords Hover | Hovering over thumbnail removes the blur - Search Results
+www.youtube.com##ytd-video-renderer:has-text(Trailer) ytd-thumbnail:hover:style(filter: grayscale(0%) blur(0px))
+www.youtube.com##ytd-video-renderer:has-text(Spoiler) ytd-thumbnail:hover:style(filter: grayscale(0%) blur(0px))
+www.youtube.com##ytd-video-renderer:has-text(Final Boss) ytd-thumbnail:hover:style(filter: grayscale(0%) blur(0px))
+! YouTube Keywords blur thumbnail | Home & Subscription Results
+www.youtube.com##ytd-rich-grid-media:has-text(Trailer) ytd-thumbnail:style(filter: grayscale(100%) blur(8px))
+www.youtube.com##ytd-rich-grid-media:has-text(Spoiler) ytd-thumbnail:style(filter: grayscale(100%) blur(8px))
+www.youtube.com##ytd-rich-grid-media:has-text(Final Boss) ytd-thumbnail:style(filter: grayscale(100%) blur(8px))
+! YouTube Keywords Hover | Hovering over thumbnail removes the blur - Home & Subscription Results
+www.youtube.com##ytd-rich-grid-media:has-text(Trailer) ytd-thumbnail:hover:style(filter: grayscale(0%) blur(0px))
+www.youtube.com##ytd-rich-grid-media:has-text(Spoiler) ytd-thumbnail:hover:style(filter: grayscale(0%) blur(0px))
+www.youtube.com##ytd-rich-grid-media:has-text(Final Boss) ytd-thumbnail:hover:style(filter: grayscale(0%) blur(0px))
+! YouTube Keywords Whitelist | Add channels you wish to whitelist here
+www.youtube.com##ytd-rich-grid-media:has-text(Ryan Kinel) ytd-thumbnail:style(filter: none)
+www.youtube.com##ytd-rich-grid-media:has-text(Kira) ytd-thumbnail:style(filter: none)
+
+! YouTube Consent Popup | YouTube stops videos from playing if you don't "complete" the popup, this does it for you... uBlock = GOD
+youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
+youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
+youtube.com##+js(json-prune, topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
+
+! 2021-12-01: When specific videos redirect persistently to consent page try this filter (discussion: https://redd.it/r3ec5x ):
+youtube.com##+js(set, ytInitialData.onResponseReceivedEndpoints, undefined)
+
+! 2021-12-14 YT consent v2 https://github.com/uBlockOrigin/uAssets/issues/7636#issuecomment-992858673
+youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
+youtube.com##+js(json-prune, [].response.overlay.consentBumpV2Renderer topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer overlay.consentBumpV2Renderer response.overlay.consentBumpV2Renderer)
+
+! 2022-10-16 when navigating directly to #shorts
+youtube.com##+js(set, ytInitialData.desktopTopbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
+```
+
+</details>
+
 
 <h1 align="center", margin= "0">📷 More Screenshots</h1>
 
