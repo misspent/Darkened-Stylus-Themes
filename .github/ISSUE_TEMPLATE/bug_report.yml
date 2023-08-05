@@ -19,6 +19,7 @@ body:
       options:
         - Nexus Mods
         - YouTube
+        - Brave
     validations:
         required: true
   - type: textarea
