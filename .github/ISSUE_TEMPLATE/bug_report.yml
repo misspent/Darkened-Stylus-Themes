@@ -1,6 +1,5 @@
 name: Bug Report
 description: Create a bug report.
-about: Use this template for tracking new features.
 title: "[Bug]: "
 assignees: misspent
 labels: ["bug"]
