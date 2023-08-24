@@ -34,7 +34,7 @@ body:
     attributes:
       label: "📸 Screenshots"
       description: "If applicable, add screenshots to help give me a bigger picture of the issue at hand (It'll be very convenient and helpful if you do)."
-      render: bash
+      Tip: Insert image link or drag and drop image file here.
   - type: textarea
     id: other
     attributes:
