@@ -49,6 +49,96 @@
 <p>
 
 <details>
+  <summary align="center">DuckDuckGo Search Engine Theme</summary>
+  <br>
+
+## ⛔ Best on 1440p+ monitors; not tested on a 1080p display given that I don't have one.
+
+📢 **IMPORTANT**: Your browser has to support :has selector for this and most of my other themes to work properly | Set `layout.css.has-selector.enabled` to “true” in `about:config` on Firefox for :has selector to work.  
+📢 **IMPORTANT**: Add/remove an "M" at the end of the "duckduckgo.co(m)" below each snippet section for the snippet to work/not  
+📢 **IMPORTANT**: If you have issues please click the "Homepage" button and go to issues on the GitHub page or click [this](https://github.com/misspent/Darkened-Stylus-Themes/issues).  
+📢 **IMPORTANT**: Enable Dark Mode in quick settings  
+**Other**: Zoom 90% on 1440p for ultimate climax (ctrl+scroll wheel up/down)  
+
+### My Other Themes
+- [YouTube Theme](https://userstyles.world/style/6817/youtube-styled)  
+- [Nexus Mods Theme](https://userstyles.world/style/6620/nexus-mods-darkened)
+- [Brave Search Engine Theme](https://userstyles.world/style/7292/brave-styled)  
+
+<h1 align="center">Preview</h1>
+
+![1  DuckDuckGo All Page Image](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/6a5da2c4-7800-40d2-a221-cf8bc9455d3d)
+
+### ✅ Features
+* ✔️ More Results
+* ✔️ Everything Square
+* ✔️ Variables so you can tweak yourself
+* ❌ If you have a 1080p monitor, you might need to modify the classes for which I haven't defined variables  
+* ⭕ Work in progress, not perfect and more than likely never will be
+* ⛔ Works in different ways depending on your resolution, I only have 1440p display
+* ⛔ I use the [LibreWolf](https://librewolf.net) Browser  
+
+### 🛠️ Random bs to you
+- If you have a 1080p display and know CSS, any help with making it look "right" will be greatly appreciated. You'll have to open something on my [GitHub](https://github.com/misspent/Darkened-Stylus-Themes) to be able to contact me. Hopefully I respond fast given how I get Discord notifications (massive QoL).  
+- I do not use DuckDuckGo as my search engine; I use [Brave](https://search.brave.com/). So if something does get changed, I may not know.  
+
+<h1 align="center", margin= "0">📷 More Screenshots</h1>
+
+<h4 align="center">(Previews/screenshots may become out-of-date at some point)</h4>
+
+### Videos Section Results
+
+![2  DuckDuckGo Videos Page Image](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/0e0dad1d-a3fd-4142-92a6-1222a4287bd4)
+
+### More News Results
+
+![3  DuckDuckGo News Page Image](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/f6d372b3-73b7-403b-a88d-38b3243a4a5f)
+
+### Make sure your settings are this (Infinite Scroll should be fine?)
+
+![5  DuckDuckGo Settings Image](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/25a01337-538b-4924-9b55-c319a2e7d059)
+
+<details>
+  <summary align="center">📜 Configurable & Extra's</summary>
+  <br>
+
+### ⌨ Variables
+
+```css
+:root {
+    /* Main colours */
+    --background-primary: #101010;
+    --background-secondary: #161616;
+    --background-tertiary: #181818;
+    --background-snippet: #151515;
+    --background-other: #121212; /* Related searches container background */
+    /* Buttons/Other */
+    --more-buttons: #202020;
+    --more-button-hover: #252525;
+    --border-color: #202020;
+    --Result-Seperator: none; /* none = off, initial = on | Settings this to "none" = infinite scrolling effect... Looks hot */
+    /* Optional */
+    --Website-link-Directory-tree: inherit; /* none = off, inherit = on */
+    --Feedback-button: none; /* none = off, flex = on */
+    --main-footer: none; /* none = off, block = on */
+    /* Results, work together | Increase/decrease other values by 1 when changing "--Result-Snippets" | DO NOT GO LOWER THAN 2! */
+    --Result-Snippets: 3;
+    --Searches-Related-Start: 3;
+    --Searches-Related-End: 4;
+	--News-Section-Snippets: 3;
+   /* Removals | none = off, block = on */
+   --Related-Searches-Container: none; /* Related Searches */
+   --Recent-News-Container: none; /* Recent News */
+   --Videos-Container: none; /* Videos */
+}
+```
+
+</details>
+
+
+</details>
+
+<details>
   <summary align="center">Brave Search Engine Theme</summary>
   <br>
 
