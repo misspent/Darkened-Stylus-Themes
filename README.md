@@ -131,6 +131,7 @@
    --Recent-News-Container: none; /* Recent News */
    --Images-for-Container: none; /* Images for */
    --Videos-Container: none; /* Videos */
+   --DuckDuckGo-Logo-Top: none; /* DDG Icon */
 }
 ```
 
