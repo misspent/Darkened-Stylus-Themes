@@ -17,6 +17,7 @@ body:
     attributes:
       label: 🖥️ What theme are you making this request for?
       options:
+        - DuckDuckGo
         - Nexus Mods
         - YouTube
         - Brave
