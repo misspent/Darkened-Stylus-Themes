@@ -60,6 +60,13 @@
 📢 **IMPORTANT**: Enable Dark Mode in quick settings  
 **Other**: Zoom 90% on 1440p for ultimate climax (ctrl+scroll wheel up/down)  
 
+### 📥 Installation
+Set your appearance to "Dark" on YouTube  
+Make sure you have the Stylus browser extension installed   
+    - **[Chrome Webstore](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)**  
+    - **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)**  
+After installing, head over to [this link](https://userstyles.world/style/12012/duckduckgo-styled) and click the "install" button. When it redirects you click "Install Stylus" button at the top left of that page.  
+
 ### My Other Themes
 - [YouTube Theme](https://userstyles.world/style/6817/youtube-styled)  
 - [Nexus Mods Theme](https://userstyles.world/style/6620/nexus-mods-darkened)
