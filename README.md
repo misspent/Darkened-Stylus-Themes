@@ -86,13 +86,13 @@
 
 <h4 align="center">(Previews/screenshots may become out-of-date at some point)</h4>
 
-### Videos Section Results
-
-![2  DuckDuckGo Videos Page Image](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/0e0dad1d-a3fd-4142-92a6-1222a4287bd4)
-
 ### More News Results
 
 ![3  DuckDuckGo News Page Image](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/f6d372b3-73b7-403b-a88d-38b3243a4a5f)
+
+### Videos Section Results
+
+![2  DuckDuckGo Videos Page Image](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/0e0dad1d-a3fd-4142-92a6-1222a4287bd4)
 
 ### Make sure your settings are this (Infinite Scroll should be fine?)
 
