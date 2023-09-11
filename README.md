@@ -129,6 +129,7 @@
    /* Removals | none = off, block = on */
    --Related-Searches-Container: none; /* Related Searches */
    --Recent-News-Container: none; /* Recent News */
+   --Images-for-Container: none; /* Images for */
    --Videos-Container: none; /* Videos */
 }
 ```
