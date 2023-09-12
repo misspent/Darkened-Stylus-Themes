@@ -74,7 +74,7 @@ After installing, head over to [this link](https://userstyles.world/style/12012/
 
 <h1 align="center">Preview</h1>
 
-![1  DuckDuckGo All Page Image](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/6a5da2c4-7800-40d2-a221-cf8bc9455d3d)
+![1  DuckDuckGo All Page Image](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/af5706e4-57a6-493e-99d7-c1f94d75994c)
 
 ### ✅ Features
 * ✔️ More Results
