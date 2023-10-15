@@ -167,11 +167,17 @@ After installing, head over to [this link](https://userstyles.world/style/7292/b
 📢 **IMPORTANT**: Enable Dark Mode in quick settings 
 
 ### ✅ Features
-* ✔️ Optional More Home Results
-* ✔️ + More options that I'm too lazy to add here
+* ✔️ Everything is square
+* ✔️ Colour coding (optional)
+* ✔️ More results + Other features
+* ❌ Can't change the colours of anything unless you know what you're looking for 
 * ⭕ Work in progress, not perfect and more than likely never will be.
-* ⛔ May not work properly for other browsers, nor will it work that well when signed out
-* ⛔ I use the LibreWolf Browser (108.0.1-1 as of 07/04/2023)
+* ⛔ May not work properly for other browsers, nor will it work that well when not in dark mode
+* ⛔ Works in different ways depending on your resolution, I only have 1440p display.
+
+### 🖥️ Scripts I use
+[Brave - Discussions Reddit Title Replacer](https://greasyfork.org/en/scripts/477491-brave-discussions-reddit-title-replacer)  
+[Brave Auto-Expand All "Show More" buttons + Others](https://greasyfork.org/en/scripts/477492-brave-auto-expand-all-show-more-buttons-others)  
 
 <details>
   <summary align="center">📜 Configurable & Extra's</summary>
