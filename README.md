@@ -195,6 +195,9 @@ After installing, head over to [this link](https://userstyles.world/style/7292/b
 
 <h4 align="center">(Previews/screenshots may become out-of-date at some point)</h4>
 
+<h3 align="center">Images Results Page</h3>
+
+![Images - Brave Search Engine](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/b4620e17-2c55-45a6-a50f-d7d89b9a117f)
 
 <details>
   <summary align="center">🖥️ Different Displays Examples</summary>
