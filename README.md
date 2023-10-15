@@ -153,7 +153,7 @@ After installing, head over to [this link](https://userstyles.world/style/12012/
 
 <h1 align="center">Preview</h1>
 
-![Brave All Results](https://user-images.githubusercontent.com/78914154/201535126-5c99542c-4659-4fd7-96f6-ca3ab2288320.png)
+![Preview Brave Search Engine](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/7ec6edaf-034b-429b-a355-e28d9a802411)
 
 <h1 align="center">📌 Information</h1>
 
@@ -211,17 +211,13 @@ After installing, head over to [this link](https://userstyles.world/style/7292/b
 </details>
 
 
-<h3 align="center">More Results All Page (Optional)</h3>
+<h3 align="center">More Results All Page (outdated)</h3>
 
 ![Brave All Results - More Results](https://user-images.githubusercontent.com/78914154/201535136-2a827800-0cb8-4c55-b954-ce6abc213ed3.png)
 
-<h3 align="center">More News Results</h3>
-
-![Brave News Results](https://user-images.githubusercontent.com/78914154/201535190-be184f67-53d4-48fa-8ccb-9d94d06f9f58.png)
-
-| Videos Section | Images Section |
+| Videos Section | News Section |
 | :---------: | :---------: |
-| <img width=475 src="https://user-images.githubusercontent.com/78914154/201535228-f7e21576-c955-4808-9efe-226300a5ce2c.png"></img>  | <img width=480 src="https://user-images.githubusercontent.com/78914154/201535182-b0879c2c-7abe-4009-b471-5219b3f93955.png"></img>  |
+| <img width=475 src="https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/ffe70365-5480-49e8-af78-6bfb600215c1"></img>  | <img width=480 src="https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/50ff5e78-c5fe-4706-b585-257737da937a"></img>  |
 
 
 </details>
