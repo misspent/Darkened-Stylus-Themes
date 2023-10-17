@@ -515,9 +515,9 @@ youtube.com##+js(set, ytInitialData.desktopTopbar.desktopTopbarRenderer.intersti
 
 ![YouTube Watching Video SS  Version 4](https://user-images.githubusercontent.com/78914154/229382329-0e33d87b-6d22-44b6-b7ad-c3c514e57011.png)
 
-<h3 align="center">[1440p] Watching Video in Theater mode (Configurable)</h3>
-	
-![1440p Theater Tweak - Everything in section Dream Stuff](https://user-images.githubusercontent.com/78914154/229839432-1676e0de-0349-422f-a6c8-11a7263fbe18.png)
+<h3 align="center">Maximum Efficiency in Theater Mode (Configurable + Optional)</h3>
+
+![Theater Mode](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/ba8ecbb3-6163-48e8-92a7-fdff593d9c14)
 
 <h3 align="center">Compact and More Results (Both Optional)</h3>
 
