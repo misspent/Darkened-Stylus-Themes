@@ -519,6 +519,10 @@ youtube.com##+js(set, ytInitialData.desktopTopbar.desktopTopbarRenderer.intersti
 
 ![Theater Mode](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/ba8ecbb3-6163-48e8-92a7-fdff593d9c14)
 
+<h3 align="center">Sidebar Hidden - Hovered (Configurable + Optional)</h3>
+
+![Sidebar Hidden - Hovered (Configurable + Optional)](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/835a0e9b-ab03-49f2-9bdc-6318d9d4fa45)
+
 <h3 align="center">Compact and More Results (Both Optional)</h3>
 
 ![GIF  Optional Compact and More Results](https://user-images.githubusercontent.com/78914154/194886541-2980fd74-b455-4be0-aa83-ec19108bc4af.gif)
