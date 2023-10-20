@@ -530,8 +530,7 @@ youtube.com##+js(set, ytInitialData.desktopTopbar.desktopTopbarRenderer.intersti
 
 | Compact Comments | More Subscription Tiles |
 | :---------: | :---------: |
-| <img width=475 src="https://user-images.githubusercontent.com/78914154/194765982-f6c71a41-5f22-480c-92f9-116ae64e4484.gif"></img>  | <img width=480 src="https://user-images.githubusercontent.com/78914154/194863165-3ffa4362-526b-4af3-b1c7-13b71c7b43a8.gif"></img>  |
+| <img width=475 src="https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/7faaa2e0-30f7-4e45-9269-19b9e002e2f5"></img>  | <img width=480 src="https://user-images.githubusercontent.com/78914154/194863165-3ffa4362-526b-4af3-b1c7-13b71c7b43a8.gif"></img>  |
 
 </details>
-
 
