@@ -346,7 +346,8 @@ https://user-images.githubusercontent.com/78914154/191626228-b5b0e9ec-dd0b-4763-
 
 <h1 align="center">Preview</h1>
 
-![Home Page - Highly Configurable  Edited](https://user-images.githubusercontent.com/78914154/230607792-18bb785f-9bb3-4839-a5f9-6cf08cb143d7.gif)
+![Tis the new layout preview](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/9527152c-d1b9-4f37-abce-cc7844ed9101)
+
 
 <h1 align="center">📌 Information</h1>
 
