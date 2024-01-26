@@ -620,7 +620,7 @@ In the "❗ Main content" section:
   <summary align="center">🎨 My settings</summary>
   <br>
 
-![My Reddit Settings](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/424f4475-12a9-42c5-9ad7-00ab6151db52)
+![My Reddit Settings](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/76721baf-fb0a-47a6-a205-45d783776e1b)
 
 </details>
 
