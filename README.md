@@ -535,3 +535,97 @@ youtube.com##+js(set, ytInitialData.desktopTopbar.desktopTopbarRenderer.intersti
 
 </details>
 
+
+<details>
+  <summary align="center">Reddit Theme | WIP</summary>
+  <br>
+
+<h1 align="center">Preview</h1>
+
+![Reddit - Home Page](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/f10c346c-9154-479d-b5ef-592e01339808)
+
+<h1 align="center">📌 Information</h1>
+
+Go to preferences -> disable Use new reddit as my default experience
+If you don't use Reddit Enhancement Suite then disable the whole section
+
+### 📥 Installation
+Set your appearance to "Dark" on YouTube  
+Make sure you have the Stylus browser extension installed   
+    - **[Chrome Webstore](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)**  
+    - **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)**  
+After installing, head over to [this link](https://userstyles.world/style/6817/youtube-mods-darkened) and click the "install" button. When it redirects you click "Install Stylus" button at the top left of that page.  
+
+### Important! [READ]
+📢 **IMPORTANT**: If you use [Reddit Enhancement Suite](https://redditenhancementsuite.com), then enable the whole section.  
+📢 **IMPORTANT**: Disable `Use new Reddit as my default experience` in preferences.  
+📢 **IMPORTANT**: You **MUST** be signed in.  
+📢 **Required**: Your browser has to support :has selector for this and most of my other themes to work properly | Set `layout.css.has-selector.enabled` to “true” in about:config for Mozilla browsers.  
+📢 **Support**: If you have issues, please click the "Homepage" button and go to issues on the GitHub page or click [this](https://github.com/misspent/Darkened-Stylus-Themes/issues).   
+
+### ✅ Features
+* ✔️ More Results
+* ✔️ Actually dark
+* ✔️ Supports Highlight New Comment Extension
+* ✔️ Colour coded moderator and author messages
+* ❌ Can't change the colours of anything unless you know what you're looking for 
+* ⭕ Work in progress, not perfect and more than likely never will be.  
+* ⛔ Works in different ways depending on your resolution, I only have 1440p display.
+* ⛔ I use [LibreWolf](https://librewolf.net) & [Floorp](https://floorp.app) browsers.
+
+### 🖥️ Scripts/Extension I use
+**Extensions**  
+[Reddit Comment Collapser](https://addons.mozilla.org/en-US/firefox/addon/reddit_comment_collapser) - Collapse a comment and all of it's replies by clicking on the column of the comment you wish to collapse.  
+[Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite) - Reddit Enhancement Suite (RES) is a suite of tools to enhance your Reddit browsing experience. This might be a pain to setup.  
+**Theme**  
+[Reddit colored comments](https://userstyles.world/style/4734/reddit-colored-comments) - Not needed if you install "Reddit Comment Collapser".  
+[Theme I use with Reddit Enhancement Suite](https://www.reddit.com/r/Enhancement/comments/176alh2/reddit_enhanced_suite_dark_mode_settings_page) - Only use this if you use Reddit Enhancement Suite theme + have the section enabled in the reddit theme
+
+<h1 align="center", margin= "0">📷 More Screenshots</h1>
+
+<h4 align="center">(Previews/screenshots may become out-of-date at some point)</h4>
+
+<h3 align="center">Viewing Subreddit page</h3>
+
+![Reddit - Viewing Subreddit page](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/14821ac1-1f9d-41bc-899a-533af231ba4b)
+
+<h3 align="center">Viewing an actual post</h3>
+
+![Reddit - Viewing an actual post](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/8e86b853-95e6-4e10-aaae-2d84462e5eff)
+
+<details>
+  <summary align="center">📜 Configurable & Extra's</summary>
+  <br>
+
+<h3 align="center">⌨ Variables</h3>
+
+In the "❗ Main content" section:
+```css
+:root {
+	--Sidebar: initial; /* none = removed EVERYWHERE, initial = enabled */
+	--Comment-Box: block; /* none = removed, block = on */
+	--AutoModerator-Message: none; /* none = removed, block = on */
+	--Flat-list-buttons: inherit; /* none = removed unless entry is hovered over, inherit = normal | This is the bar with permalink, source,embed, save, etc */
+	/* Buttons |  none = off, initial = on */
+	--Permalink-button: initial;
+	--Source-button: none;
+	--Embed-button: none;
+	--Report-button: none;
+}
+```
+
+</details>
+
+<details>
+  <summary align="center">🎨 My settings</summary>
+  <br>
+
+![My Reddit Settings](https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/424f4475-12a9-42c5-9ad7-00ab6151db52)
+
+</details>
+
+### 🎉 Credit
+Credits: ggitaliano & brian6932  
+Base: [Reddit Carbon Theme](https://github.com/brian6932/Reddit-Carbon-Theme)
+
+</details>
