@@ -20,6 +20,7 @@ body:
         - DuckDuckGo
         - Nexus Mods
         - YouTube
+        - Reddit
         - Brave
     validations:
         required: true
