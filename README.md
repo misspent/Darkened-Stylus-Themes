@@ -557,8 +557,8 @@ Make sure you have the Stylus browser extension installed
 After installing, head over to [this link](https://userstyles.world/style/14375/reddit-re-imagined) and click the "install" button. When it redirects you click "Install Stylus" button at the top left of that page.  
 
 ### ❗ Important! [READ]
+📢 **IMPORTANT**: Disable `Use new Reddit as my default experience` & `allow subreddits to show me custom themes` in preferences.  
 📢 **IMPORTANT**: If you use [Reddit Enhancement Suite](https://redditenhancementsuite.com), then enable the whole section.  
-📢 **IMPORTANT**: Disable `Use new Reddit as my default experience` in preferences.  
 📢 **IMPORTANT**: You **MUST** be signed in.  
 📢 **Required**: Your browser has to support :has selector for this and most of my other themes to work properly | Set `layout.css.has-selector.enabled` to “true” in about:config for Mozilla browsers.  
 📢 **Support**: If you have issues, please click the "Homepage" button and go to issues on the GitHub page or click [this](https://github.com/misspent/Darkened-Stylus-Themes/issues).   
