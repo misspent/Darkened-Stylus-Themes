@@ -1,4 +1,4 @@
-![Darkened Stylus Edited](https://user-images.githubusercontent.com/78914154/191014782-882e8712-0aa4-441a-b7e4-cbb73d9e5fe6.png)
+![Darkened Stylus Edited]()
 
 <details>
   <summary align="center">⛏ Very Useful/Convenient Extensions & Scripts (TamperMonkey)</summary>
@@ -407,45 +407,73 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
 <h3 align="center">⌨ Variables</h3>
 
 ```css
-:root {
-    --background-primary: #212121;
-    --background-secondary: #090909;
-    --background-tertiary: #121212;
-    --background-hover: #202020;
-    --background-video-renderer: #101010;
-    --background-comment-renderer: rgba(28, 28, 28, 1);
-    --background-title: #151515;
-    --background-description: #181818;
-    --title-text: #ccc;
-    --server-radius: 0px;
-    --avatar-radius: 0px;
-    /* => Optional Tweaks <= */
-    --header-Chip-bar: flex; /* none = OFF | flex = ON | Home Page */
-    --Sidebar-Buy-Download-Advertisement: none; /* none = OFF | block = ON | Watching a Video Sidebar on right side */
-    --YouTube-Title-Hash-Tag: none; /* none = OFF | block = ON */
-    --Donation-Containers: none; /* none = OFF | block = ON | Watching a Video Sidebar on right side */
-    --Only-Recommended-on-Homepage: none; /* none = OFF | flex = ON */
-    --Action-Bar-Names-Save-Share-Etc: inline-block; /* none = OFF | inline-flex = ON */
-    --Info-Card: none; /* none = OFF | flex = ON */
-    /* Sidebar */
-    --entry-shorts: none; /* none = OFF | flex = ON */
-    --Home-Explore-Section-Sidebar: flex; /* none = OFF | flex = ON */
-    --Originals-Sidebar-Tab: flex; /* none = OFF | flex = ON */
-    --YouTube-Music-Sidebar-Tab: flex; /* none = OFF | flex = ON */
-    --Whole-Explore-Section-Sidebar: block;  /* none = OFF | block = ON */
-    --Whole-More-From-YouTube-Section: block; /* none = OFF | block = ON */
-    --Useless-Service-Sidebar-Tabs: flex; /* none = OFF | flex = ON */
-    --Sidebar-Credits-Footer: none; /* none = OFF | block = ON */
-    /* Video Toolbar Buttons | none = OFF | inline-flex = ON */
-    --Download-Button: inline-flex;
-    --Thanks-Button: none;
-    --Clip-Button: none;
-    /* => Additions <= */
-    --Subscription-Tab-Tiles-Width: 1704px; /* 2343px/2130px/1920px for 1440p & 1704px for 1080p | Default: 1278px/1284px; */
-    --Comments: 2;
-    /* => YouTube Search Result Tiles Amount <= */
-    --Main-Results-Width: 100%; /* 1920px/2100px = Good | 100% = maximize space */
-    --Result-Tiles: 4;
+:root, ytd-masthead#masthead, html[dark], [dark], ytd-playlist-panel-renderer {
+  --background-primary: #212121;
+  --background-secondary: #090909;
+  --background-tertiary: #121212;
+  --background-hover: #202020;
+  --yt-spec-button-chip-background-hover: #202020;
+  --background-video-renderer: #101010;
+  --background-comment-renderer: #171717; /* Old: rgba(28, 28, 28, 1); */
+  --background-title: #151515;
+  --background-description: #161616; /* Old: #181818; */
+  --title-text: #ccc;
+  --yt-spec-base-background: #101010 !important;
+  /* Search bar + Dropdown*/
+  --ytd-searchbox-background: var(--background-secondary) !important;
+  --ytd-searchbox-legacy-border-color: var(--background-hover) !important;
+  --ytd-searchbox-legacy-button-color: var(--background-title) !important;
+  --ytd-searchbox-legacy-button-border-color:  var(--background-hover) !important;
+  --yt-spec-raised-background: #151515;
+  /* Live Chat */
+  --yt-live-chat-vem-background-color: #151515 !important;
+  --yt-spec-additive-background: #090909 !important;
+  /* Removals */
+  --Clip-Button: none;
+  --Thanks-Button: none;
+  --Join-Button: none;
+  --Description-Game-Tile: none;
+  --Show-chat-replay: grid;                            /* grid / none */
+  --Hashtag-in-title: none;
+  --Event-ticket: none;
+  --Emojis-in-comments: initial;                       /* initial / none */
+  --Comment-replies-of-replies-action-buttons: none;
+  --Donation-paid-comments: grid;                      /* grid / none */
+  --Home-page-mix-playlist: none;                      /* grid / none */
+  --Search-page-playlist-and-radio: none;              /* grid / none */
+  --Information-box: none;                             /* grid / none */
+  /* Global Removals */
+  --Live-stream-video-tiles: none;                     /* grid / none */
+  --Remove-loading-grey-box-skeletons: none;
+  /* Removals | Search page only */
+  --Search-right-sidebar: flex;                        /* flex / none */
+  --People-also-search-for-card: none;
+  --Channel-card: none;                                /* flex / none */
+  --Shorts-card: none;
+  --Movie-card: none;
+  /* Other */
+  --yt-spec-menu-background: #101010;
+  --background-other: #050505;
+  --yt-lightsource-section2-color: #181818 !important;
+  /* Toast pop-up */
+  --yt-spec-inverted-background: #151515 !important;
+  --yt-spec-text-primary-inverse: #ccc !important;
+  /* Popup / Checkboxes */
+  --paper-dialog-background-color: #101010;
+  --paper-checkbox-unchecked-background-color: #090909;
+  --paper-checkbox-unchecked-color: #252525;
+  --paper-checkbox-checked-color: #0c8a1d;
+  /* Actual tweaks to layout */
+  --ytd-margin-6x: 16px;            /* Changed */
+  --ytd-margin-2x: 8px;
+  --zIndex: 1100;
+}
+html[darker-dark-theme-deprecate], [darker-dark-theme-deprecate] {
+  --yt-spec-additive-background: #121212;
+  --yt-spec-badge-chip-background: #171717;
+  --yt-spec-10-percent-layer: #202020; /* Border color */
+  --yt-spec-brand-background-primary: #151515;
+  --yt-spec-general-background-a: #101010;
 }
 ```
 
@@ -459,35 +487,50 @@ After installing, head over to [this link](https://userstyles.world/style/6817/y
 
 ```
 ! ===============================> YouTube <===============================
-! iframe redirect | Remove this if you don't want the uBlock lock on videos that aren't on YouTube
-||youtube.com^$3p,frame,redirect=click2load.html
-||youtube-nocookie.com^$3p,frame,redirect=click2load.html
-! Removes Google Dialogs Login on Various Sites
-||accounts.google.com/gsi/*$xhr,script,3p
+! Removes Emojis from comments
+! youtube.com###comments .yt-core-attributed-string--inline-flex-mod:has(img[src*="emoji"])
 
-! YouTube Comments Cleaner | This removes those bot comments... Add more if you find them | Top = replies of replies, bottom = comment itself
-www.youtube.com##.ytd-comment-replies-renderer:has(#author-text) .style-scope.ytd-comment-renderer:has-text(/Finally it’s here|Here is new fu vid!|This is the clip u all looking for|Here is new ful vid!|Here is new full vid!|Finally Here is the fu clips!!| Finally Here is the ful clips!!|Finally Here is the full clips!!|translate|LETS BE HONEST WE ALL REMEMBER THIS RECORD|I forgot to close the camera|my content is better|Here is the full clip|DONT READ MY PROFILE PICTURE|Look at my banner for cookies|I upload funny entertaining videos|Lucky prize winners|Claim your prize|you will see it|Read My Profile|Link to the clip that explains|IM SUBBING EVERYONE WHO SUBS ME|IM SUBBING EVERYONE WHO SUBS TO ME|JJ said my music was fire on my page |MY CONTENT IS SO MUCH BETTER|BOT|L bot|Ratio bot|okay bot|Telegram|Teleegram|https://youtu.be/-1ddgHa_c-0|https://youtu.be/yoUsZ5cyu-4|F*CК МЕ. ТАР 0N MY РIC|TАР 0N MY РIC/i)
-www.youtube.com###contents .style-scope.ytd-item-section-renderer:has-text(/Telegram|Teleegram/i)
+! Text animation, overlay animation, reactions, ads, player responses (like reactions, thumbs up, etc) & other stuff.... This oddly speed up YouTube | Use at on risk for now? Do more testing 28/06/24
+! Prevent stats (such as likes and views) from live-updating
+||youtube.com/youtubei/v1/updated_metadata
+! Hide "smartimation" animations
+youtube.com##yt-smartimation > :not(.smartimation__content)
+youtube.com##yt-animated-action > :not(.animated-action__content-with-background)
+youtube.com##:is(.smartimation__content, .animated-action__content-with-background) > :has(> lottie-component)
+! Live reaction overlays
+www.youtube.com##yt-reaction-control-panel-view-model
+www.youtube.com##yt-reaction-control-panel-overlay-view-model
+! ads, others / pointless updates
+||music.youtube.com^$csp=worker-src 'none'
+||www.youtube.com^$csp=worker-src 'none'
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
+youtube.com##+js(json-prune, playerResponse.adPlacements)
+youtube.com##+js(json-prune, playerResponse.playerAds)
+youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, null)
 
-! YouTube Keywords blur thumbnail | Search Results
-www.youtube.com##ytd-video-renderer:has-text(Trailer) ytd-thumbnail:style(filter: grayscale(100%) blur(8px))
-www.youtube.com##ytd-video-renderer:has-text(Spoiler) ytd-thumbnail:style(filter: grayscale(100%) blur(8px))
-www.youtube.com##ytd-video-renderer:has-text(Final Boss) ytd-thumbnail:style(filter: grayscale(100%) blur(8px))
-! YouTube Keywords Hover | Hovering over thumbnail removes the blur - Search Results
-www.youtube.com##ytd-video-renderer:has-text(Trailer) ytd-thumbnail:hover:style(filter: grayscale(0%) blur(0px))
-www.youtube.com##ytd-video-renderer:has-text(Spoiler) ytd-thumbnail:hover:style(filter: grayscale(0%) blur(0px))
-www.youtube.com##ytd-video-renderer:has-text(Final Boss) ytd-thumbnail:hover:style(filter: grayscale(0%) blur(0px))
-! YouTube Keywords blur thumbnail | Home & Subscription Results
-www.youtube.com##ytd-rich-grid-media:has-text(Trailer) ytd-thumbnail:style(filter: grayscale(100%) blur(8px))
-www.youtube.com##ytd-rich-grid-media:has-text(Spoiler) ytd-thumbnail:style(filter: grayscale(100%) blur(8px))
-www.youtube.com##ytd-rich-grid-media:has-text(Final Boss) ytd-thumbnail:style(filter: grayscale(100%) blur(8px))
-! YouTube Keywords Hover | Hovering over thumbnail removes the blur - Home & Subscription Results
-www.youtube.com##ytd-rich-grid-media:has-text(Trailer) ytd-thumbnail:hover:style(filter: grayscale(0%) blur(0px))
-www.youtube.com##ytd-rich-grid-media:has-text(Spoiler) ytd-thumbnail:hover:style(filter: grayscale(0%) blur(0px))
-www.youtube.com##ytd-rich-grid-media:has-text(Final Boss) ytd-thumbnail:hover:style(filter: grayscale(0%) blur(0px))
-! YouTube Keywords Whitelist | Add channels you wish to whitelist here
-www.youtube.com##ytd-rich-grid-media:has-text(Ryan Kinel) ytd-thumbnail:style(filter: none)
-www.youtube.com##ytd-rich-grid-media:has-text(Kira) ytd-thumbnail:style(filter: none)
+! Consent warning like "Self-harm" topics etc
+youtube.com##+js(trusted-click-element, #player-error-message-container button[aria-label="I understand and wish to proceed"])
+
+! ==================> YouTube Comments Cleaner | This removes those bot comments & More <==================                              |  #comment
+! Applies to main comments | (Add "\" before the "'" to make it apply: I\’m subbed) & Comment replies
+youtube.com##ytd-page-manager ytd-watch-flexy #primary.ytd-watch-flexy #comment:has-text(/I\'m subbing | I\’m subbed|Buy ONE Get ONE FREE|use my code|Don\'t forget to visit|The sponsor|first purchase|Subscribe/i):upward(ytd-comment-thread-renderer)
+youtube.com##ytd-page-manager ytd-watch-flexy #primary.ytd-watch-flexy #replies ytd-comment-view-model:has(#author-text):has-text(/UTTP|NWO|UTube|Police|Troll|ZNTP|CABT/)
+! Only applies to replies of comments
+youtube.com##ytd-page-manager ytd-watch-flexy #primary.ytd-watch-flexy ytd-comment-thread-renderer #expander-contents ytd-comment-view-model:has-text(/Here is new fu | Here is the fu | This is the clip | Finally it’s here | Finally Here is the fu | Telegram | Teleegram | I forgot to close the camera | LETS BE HONEST WE ALL REMEMBER | ТАР 0N MY РIC | I upload funny | read my name | Read My Profile | you will see it | Claim your prize | Link to the clip | MY CONTENT IS SO | Look at my banner | Lucky prize winners | IM SUBBING EVERYONE | DONT READ MY PROFILE | JJ said my music was fire on my page |first purchase|Don\'t translate| translate | My content is | are better than|Django|your dad|I WANT TO BE THE MOST|parents said if I hit|SI TNETNOC YM|oediv retteb ekam|retteb si tnetnoc ym|content is better|erutam era sdiK|UTTP|UT‎TP|RETTEB‎ YAW‎ SI‎ TNETNOC|erutam‎ era sdiK|IS WAY BETTER|IN MY SERVER|THERE IS A VIDEO|ailihp‎odep‎ ezila‎mroN|I AM WAY BETTER|CONTENT IS BETTER|Tis a bot|shut up bot|in a video|Its finally completed|youtu.be|I MADE A DISS TRACK|use my code|Hi guys|DO NOT REDEEM|WHY DID YOU REDEE/)
+
+! ==========> Remove videos older than x | This is your first time using :upward and regex for this, and it worked out pretty well? <==========
+! youtube.com##ytd-page-manager [class*="ytd-"] .ytd-video-meta-block:nth-of-type(2):has-text(/(|5|6|7|8|9|1[0-8]) years/i):upward(ytd-rich-item-renderer)
+
+! ==========> YouTube Keywords blur thumbnail | Home Results, Watching video recommended sidebar & Search Results <==========
+youtube.com##ytd-page-manager :is(ytd-rich-item-renderer:has(#meta h3), ytd-video-renderer:has(#meta h3), ytd-compact-video-renderer:has(#video-title)):has-text(/Spoiler|New Boss|Final Boss|Trailer|Teaser|Reveal/) ytd-thumbnail:not(:hover):style(filter: grayscale(100%) blur(8px) opacity(.1))
+! ===> YouTube Keywords Whitelist | Add channels you wish to whitelist here <===
+youtube.com##ytd-page-manager [class*="ytd-"] :is(#video-title-link, ytd-channel-name):has-text(/Minecraft|Kira/):upward(ytd-rich-item-renderer, ytd-video-renderer, ytd-compact-video-renderer):style(filter: none)
+
+! ==========> Watched video remover | :is([style="width: 39%;"] (different for certain browsers + version) <==========
+! youtube.com##ytd-page-manager [class*="ytd-"] #progress:upward(ytd-rich-item-renderer, ytd-video-renderer, ytd-compact-video-renderer)
+
+! ===============> YouTube: Other / Random <===============
 
 ! YouTube Consent Popup | YouTube stops videos from playing if you don't "complete" the popup, this does it for you... uBlock = GOD
 youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
