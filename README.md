@@ -1,4 +1,9 @@
-![Darkened Stylus Edited]()
+
+<h3 align="center"> YouTube: How to apply customizations + Example of what is applies</h3>
+
+| How to apply | Example |
+| :---------: | :---------: |
+| <video width=550 src="https://github.com/user-attachments/assets/11999952-53a9-46bf-a9d8-da2e0a9e2ac5"></video>  | <img width=650 src="https://github.com/user-attachments/assets/274cd357-09cf-4392-b777-021af6f874d4"></img>  |
 
 <details>
   <summary align="center">⛏ Very Useful/Convenient Extensions & Scripts (TamperMonkey)</summary>
@@ -575,13 +580,6 @@ youtube.com##+js(set, ytInitialData.desktopTopbar.desktopTopbarRenderer.intersti
 | Compact Comments | More Subscription Tiles |
 | :---------: | :---------: |
 | <img width=475 src="https://github.com/misspent/Darkened-Stylus-Themes/assets/78914154/7faaa2e0-30f7-4e45-9269-19b9e002e2f5"></img>  | <img width=480 src="https://user-images.githubusercontent.com/78914154/194863165-3ffa4362-526b-4af3-b1c7-13b71c7b43a8.gif"></img>  |
-
-<h3 align="center">How to apply customizations + Example of what is applies</h3>
-
-| How to apply | Example |
-| :---------: | :---------: |
-| <video width=550 src="https://github.com/user-attachments/assets/11999952-53a9-46bf-a9d8-da2e0a9e2ac5"></video>  | <img width=650 src="https://github.com/user-attachments/assets/274cd357-09cf-4392-b777-021af6f874d4"></img>  |
-
 
 
 </details>
