@@ -1,10 +1,3 @@
-
-<h3 align="center"> YouTube: How to apply customizations + Example of what is applies</h3>
-
-| How to apply | Example |
-| :---------: | :---------: |
-| <video width=550 src="https://github.com/user-attachments/assets/11999952-53a9-46bf-a9d8-da2e0a9e2ac5"></video>  | <img width=650 src="https://github.com/user-attachments/assets/274cd357-09cf-4392-b777-021af6f874d4"></img>  |
-
 <details>
   <summary align="center">⛏ Very Useful/Convenient Extensions & Scripts (TamperMonkey)</summary>
   <br>
@@ -678,3 +671,10 @@ Credits: ggitaliano & brian6932
 Base: [Reddit Carbon Theme](https://github.com/brian6932/Reddit-Carbon-Theme)
 
 </details>
+
+
+<h3 align="center"> YouTube: How to apply customizations + Example of what is applies</h3>
+
+| How to apply | Example |
+| :---------: | :---------: |
+| <video width=550 src="https://github.com/user-attachments/assets/11999952-53a9-46bf-a9d8-da2e0a9e2ac5"></video>  | <img width=650 src="https://github.com/user-attachments/assets/274cd357-09cf-4392-b777-021af6f874d4"></img>  |
