@@ -27,10 +27,6 @@
 
 ---
 
-<p align="center">
-📢 IMPORTANT: Set "layout.css.has-selector.enabled" to “true” in "about:config" on Firefox for :has selector to work.
-<p>
-
 <h3 align="center"> YouTube: How to apply customizations + Example of what is applies</h3>
 
 | How to apply | Example |
